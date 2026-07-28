@@ -195,7 +195,9 @@ export async function validateAndGetCompany() {
     console.log("Peviitor API error:", e.message);
   }
 
-  saveCompanyData(anafData, peviitorData);
+  if (anafData) {
+    saveCompanyData(anafData, peviitorData);
+  }
 
   if (!active) {
     console.log("\n⚠️ Company is INACTIVE in ANAF - deleting jobs from SOLR and stopping");

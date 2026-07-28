@@ -2,7 +2,7 @@
   "name": "scraper-lseg-ro",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.js",
+  "main": "scraper/index.js",
   "scripts": {
     "scrape": "node --no-deprecation scraper/index.js",
     "test": "node --no-deprecation --experimental-vm-modules node_modules/jest/bin/jest.js",
@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "node-fetch": "^3.3.2",
-    "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.4.0"
   },
   "devDependencies": {

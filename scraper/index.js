@@ -286,8 +286,6 @@ async function main() {
     console.log("=== Step 2: Validate company via ANAF ===");
     const { company, cif, address, status } = await validateAndGetCompany();
     COMPANY_NAME = company;
-    const localCif = cif;
-
     if (status === 'inactive') {
       console.log("⚠️ Company is INACTIVE — jobs deleted, skipping scrape.");
       return;
@@ -314,7 +312,7 @@ async function main() {
     console.log(`Jobs scraped from LSEG Careers website: ${scrapedCount}`);
 
     if (!testOnlyOnePage) {
-      const anofmJobs = await searchANOFM(localCif);
+      const anofmJobs = await searchANOFM(cif);
       const anofmCount = anofmJobs.length;
       for (const job of anofmJobs) {
         if (!rawJobs.find(j => j.url === job.url)) {
@@ -324,13 +322,13 @@ async function main() {
       console.log(`Jobs added from ANOFM: ${anofmCount}`);
     }
 
-    const jobs = rawJobs.map(job => mapToJobModel(job, localCif));
+    const jobs = rawJobs.map(job => mapToJobModel(job, cif));
 
     const payload = {
       source: "lseg.com",
       scrapedAt: new Date().toISOString(),
       company: COMPANY_NAME,
-      cif: localCif,
+      cif: cif,
       jobs
     };
 
@@ -343,10 +341,10 @@ async function main() {
     console.log("Saved scraper/jobs.json");
 
     const companyData = {
-      id: localCif,
+      id: cif,
       company: transformedPayload.company,
       brand: companyConfig.brand || undefined,
-      status: status || "activ",
+      status: status === 'active' ? 'activ' : (status || "activ"),
       location: address ? [address] : [companyConfig.defaultLocation],
       website: [companyConfig.website],
       career: [companyConfig.careerUrl],

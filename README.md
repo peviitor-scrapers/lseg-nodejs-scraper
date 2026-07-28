@@ -7,14 +7,13 @@
 [![Node.js](https://img.shields.io/badge/node-24-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fpeviitor.ro&label=peviitor.ro)](https://peviitor.ro)
 [![API](https://img.shields.io/website?url=https%3A%2F%2Fapi.peviitor.ro%2F&label=api.peviitor.ro)](https://api.peviitor.ro/)
-[![SOLR](https://img.shields.io/website?url=https%3A%2F%2Fsolr.peviitor.ro%2Fsolr%2F&label=solr.peviitor.ro)](https://solr.peviitor.ro/solr/)
 [![GitHub Pages](https://img.shields.io/github/deployments/sebiboga/lseg-nodejs-scraper/github-pages?label=GitHub%20Pages)](https://sebiboga.github.io/lseg-nodejs-scraper/)
 
 # job_seeker_ro_spider — LSEG Careers Romania Scraper
 
 **job_seeker_ro_spider** — un scraper pentru job-urile LSEG din România. Extrage anunțurile de pe [LSEG Careers](https://lseg.wd3.myworkdayjobs.com/en/jobs/romania) și le publică în [peviitor.ro](https://peviitor.ro) prin API-ul Peviitor.
 
-> **🌱 Derived scraper.** Acest repo a fost derivat din [EPAM template](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper) (Workday API + ANOFM).
+> **🌱 Derived scraper.** Acest repo a fost derivat din [ULMA template](https://github.com/sebiboga/ulma-packaging-srl-nodejs-scraper) (Workday API + ANOFM).
 
 ## Overview
 
@@ -28,8 +27,8 @@ Proiectul automatizează colectarea zilnică a job-urilor LSEG din România, men
 - **Cache ANAF la 7 zile** — committed în repo, nu lovește demoANAF la fiecare scrape
 - **Fallback la cache stale** dacă ANAF e indisponibil
 - Cross-validează cu Peviitor API
-- Șterge job-urile stale (de pe site dar nu și în SOLR)
-- Stochează în SOLR (job core + company core)
+- Șterge job-urile stale (de pe site dar nu și în Peviitor)
+- Stochează în Peviitor API (job core + company core)
 - Generează `docs/jobs.md` automat — accesibil pe GitHub Pages
 - **Identitate companie într-un singur fișier** (`scraper/config/company.json`)
 - GitHub Actions: scrape zilnic + testare automată (unit, integration, e2e, consistency)
