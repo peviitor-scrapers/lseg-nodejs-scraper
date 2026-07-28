@@ -298,7 +298,7 @@ async function main() {
         id: cif,
         company,
         brand: companyConfig.brand || undefined,
-        status: status || "activ",
+        status: status === 'active' ? 'activ' : (status || "activ"),
         location: address ? [address] : [companyConfig.defaultLocation],
         website: [companyConfig.website],
         career: [companyConfig.careerUrl],
@@ -369,11 +369,17 @@ async function main() {
 
     if (staleUrls.length > 0) {
       console.log(`\n=== Step 4.5: Delete ${staleUrls.length} stale job(s) ===`);
+      let deletedCount = 0;
       for (const url of staleUrls) {
-        console.log(`  Deleting: ${url}`);
-        await deleteJobByUrl(url);
+        try {
+          console.log(`  Deleting: ${url}`);
+          await deleteJobByUrl(url);
+          deletedCount++;
+        } catch (delErr) {
+          console.warn(`  ⚠️ Failed to delete: ${url} — ${delErr.message}`);
+        }
       }
-      console.log(`✅ Deleted ${staleUrls.length} stale job(s)`);
+      console.log(`✅ Deleted ${deletedCount}/${staleUrls.length} stale job(s)`);
     } else {
       console.log("\n✅ No stale jobs to delete");
     }
@@ -385,7 +391,7 @@ async function main() {
     console.log(`\n=== SUMMARY ===`);
     console.log(`Jobs existing in SOLR before scrape: ${existingCount}`);
     console.log(`Jobs scraped from LSEG website: ${scrapedCount}`);
-    console.log(`Stale jobs deleted: ${staleUrls.length}`);
+    console.log(`Stale jobs attempted: ${staleUrls.length}`);
     console.log(`Jobs in SOLR after scrape: ${finalResult.numFound}`);
     console.log(`====================`);
 
