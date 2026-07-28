@@ -21,7 +21,7 @@ function makeErrorResponse(status, text) {
   };
 }
 
-describe('api.js', () => {
+describe('scraper/api.js', () => {
   let solr;
 
   beforeAll(async () => {

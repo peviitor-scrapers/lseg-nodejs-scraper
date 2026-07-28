@@ -1,33 +1,60 @@
 import { jest } from '@jest/globals';
-import dotenv from 'dotenv';
-import path from 'path';
-import { fileURLToPath } from 'url';
 import fetch from 'node-fetch';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-dotenv.config({ path: path.resolve(__dirname, '../../.env.local') });
+const API_BASE = 'https://api.peviitor.ro/v1';
+const LSEG_CIF = '39176747';
 
-const HAS_SOLR = !!process.env.SOLR_AUTH;
+let HAS_API = false;
 
-function itIfSolr(name, fn, timeout) {
-  if (HAS_SOLR) {
-    return it(name, fn, timeout);
+async function checkApiAvailability() {
+  try {
+    const res = await fetch(`${API_BASE}/scraper/jobs/?cif=${LSEG_CIF}&rows=1`, {
+      signal: AbortSignal.timeout(5000)
+    });
+    return res.ok || res.status === 400;
+  } catch {
+    return false;
   }
-  return it.skip(`${name} (skipped: SOLR_AUTH not set)`, fn, timeout);
 }
 
-beforeAll(() => {
-  if (HAS_SOLR) {
-    process.env.SOLR_AUTH = process.env.SOLR_AUTH;
-  }
-});
+let HAS_ANAF = false;
 
-import companyConfig from "../../scraper/config/company.js";
+async function checkAnafAvailability() {
+  try {
+    const res = await fetch('https://demoanaf.ro/api/search?q=test', {
+      method: 'HEAD',
+      signal: AbortSignal.timeout(5000)
+    });
+    return res.ok;
+  } catch {
+    return false;
+  }
+}
+
+function itIfApi(name, fn, timeout) {
+  if (HAS_API) {
+    return it(name, fn, timeout);
+  }
+  return it.skip(`${name} (skipped: API unavailable)`, fn, timeout);
+}
+
+function itIfAnaf(name, fn, timeout) {
+  if (HAS_ANAF) {
+    return it(name, fn, timeout);
+  }
+  return it.skip(`${name} (skipped: ANAF API unavailable)`, fn, timeout);
+}
+
+import companyConfig from '../../scraper/config/company.js';
 const TEST_CIF = companyConfig.cif;
 const TEST_BRAND = companyConfig.brand;
 const COMPANY_NAME = companyConfig.legalName;
 const JOB_BASE = companyConfig.apiBase;
 const LSEG_API_URL = `${JOB_BASE}/wday/cxs/lseg/Careers/jobs`;
+
+beforeAll(async () => {
+  [HAS_API, HAS_ANAF] = await Promise.all([checkApiAvailability(), checkAnafAvailability()]);
+});
 
 describe('E2E: Full Scraping Pipeline', () => {
 
@@ -170,11 +197,11 @@ describe('E2E: Full Scraping Pipeline', () => {
     let company;
 
     beforeAll(async () => {
-      anaf = await import('../../src/anaf.js');
+      anaf = await import('../../scraper/company-data.js');
       company = await import('../../scraper/company.js');
     });
 
-    it('should find LSEG in ANAF and validate active status', async () => {
+    itIfAnaf('should find LSEG in ANAF and validate active status', async () => {
       const results = await anaf.searchCompany(TEST_BRAND);
 
       const lseg = results.find(c =>
@@ -189,7 +216,7 @@ describe('E2E: Full Scraping Pipeline', () => {
       expect(anafData.inactive).toBe(false);
     }, 30000);
 
-    itIfSolr('should run full validation and report active status with job count', async () => {
+    itIfApi('should run full validation and report active status with job count', async () => {
       const result = await company.validateAndGetCompany();
 
       expect(result.status).toBe('activ');
@@ -197,7 +224,7 @@ describe('E2E: Full Scraping Pipeline', () => {
       expect(result.cif).toBe(TEST_CIF);
 
       if (result.existingJobsCount === 0) {
-        console.log('⚠️ No LSEG jobs in Solr — skipping job count assertion');
+        console.log('⚠️ No LSEG jobs in API — skipping job count assertion');
         return;
       }
       expect(result.existingJobsCount).toBeGreaterThan(0);
@@ -208,10 +235,10 @@ describe('E2E: Full Scraping Pipeline', () => {
     let anaf;
 
     beforeAll(async () => {
-      anaf = await import('../../src/anaf.js');
+      anaf = await import('../../scraper/company-data.js');
     });
 
-    it('should detect inactive/radiated companies via ANAF', async () => {
+    itIfAnaf('should detect inactive/radiated companies via ANAF', async () => {
       const results = await anaf.searchCompany(TEST_BRAND);
 
       const nonActive = results.find(c => c.statusLabel !== 'Funcțiune');
@@ -230,18 +257,18 @@ describe('E2E: Full Scraping Pipeline', () => {
     }, 30000);
   });
 
-  describe('SOLR Data Verification', () => {
-    let solr;
+  describe('API Data Verification', () => {
+    let api;
 
     beforeAll(async () => {
-      solr = await import('../../scraper/api.js');
+      api = await import('../../scraper/api.js');
     });
 
-    itIfSolr('should have LSEG jobs in SOLR with correct company name', async () => {
-      const result = await solr.querySOLR(TEST_CIF);
+    itIfApi('should have LSEG jobs in API with correct company name', async () => {
+      const result = await api.querySOLR(TEST_CIF);
 
       if (result.numFound === 0) {
-        console.log('⚠️ No LSEG jobs in Solr — skipping SOLR data verification');
+        console.log('⚠️ No LSEG jobs in API — skipping API data verification');
         return;
       }
 
@@ -251,8 +278,8 @@ describe('E2E: Full Scraping Pipeline', () => {
       }
     }, 15000);
 
-    itIfSolr('should have LSEG company core entry with required fields', async () => {
-      const companyDoc = await solr.getCompanyByCif(TEST_CIF);
+    itIfApi('should have LSEG company core entry with required fields', async () => {
+      const companyDoc = await api.getCompanyByCif(TEST_CIF);
 
       expect(companyDoc).toBeDefined();
       expect(companyDoc.company).toBe(COMPANY_NAME);
