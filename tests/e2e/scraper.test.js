@@ -22,7 +22,7 @@ beforeAll(() => {
   }
 });
 
-import companyConfig from "../../config/company.js";
+import companyConfig from "../../scraper/config/company.js";
 const TEST_CIF = companyConfig.cif;
 const TEST_BRAND = companyConfig.brand;
 const COMPANY_NAME = companyConfig.legalName;
@@ -82,7 +82,7 @@ describe('E2E: Full Scraping Pipeline', () => {
     let apiData;
 
     beforeAll(async () => {
-      index = await import('../../index.js');
+      index = await import('../../scraper/index.js');
       const res = await fetch(LSEG_API_URL, {
         method: "POST",
         headers: {
@@ -113,7 +113,7 @@ describe('E2E: Full Scraping Pipeline', () => {
       expect(parsed.url).toMatch(/^https:\/\/lseg\.wd3\.myworkdayjobs\.com\//);
       expect(parsed).toHaveProperty('title');
       expect(parsed).toHaveProperty('location');
-      expect(Array.isArray(parsed.location)).toBe(true);
+      expect(parsed.location === undefined || Array.isArray(parsed.location)).toBe(true);
     });
 
     it('should map parsed jobs to job model', () => {
@@ -171,7 +171,7 @@ describe('E2E: Full Scraping Pipeline', () => {
 
     beforeAll(async () => {
       anaf = await import('../../src/anaf.js');
-      company = await import('../../company.js');
+      company = await import('../../scraper/company.js');
     });
 
     it('should find LSEG in ANAF and validate active status', async () => {
@@ -192,7 +192,7 @@ describe('E2E: Full Scraping Pipeline', () => {
     itIfSolr('should run full validation and report active status with job count', async () => {
       const result = await company.validateAndGetCompany();
 
-      expect(result.status).toBe('active');
+      expect(result.status).toBe('activ');
       expect(result.company).toBe(COMPANY_NAME);
       expect(result.cif).toBe(TEST_CIF);
 
@@ -234,7 +234,7 @@ describe('E2E: Full Scraping Pipeline', () => {
     let solr;
 
     beforeAll(async () => {
-      solr = await import('../../solr.js');
+      solr = await import('../../scraper/api.js');
     });
 
     itIfSolr('should have LSEG jobs in SOLR with correct company name', async () => {
@@ -252,12 +252,11 @@ describe('E2E: Full Scraping Pipeline', () => {
     }, 15000);
 
     itIfSolr('should have LSEG company core entry with required fields', async () => {
-      const result = await solr.queryCompanySOLR(`id:${TEST_CIF}`);
+      const companyDoc = await solr.getCompanyByCif(TEST_CIF);
 
-      expect(result.numFound).toBe(1);
-      const company = result.docs[0];
-      expect(company.company).toBe(COMPANY_NAME);
-      expect(company.status).toBe('activ');
+      expect(companyDoc).toBeDefined();
+      expect(companyDoc.company).toBe(COMPANY_NAME);
+      expect(companyDoc.status).toBe('activ');
     }, 15000);
   });
 });

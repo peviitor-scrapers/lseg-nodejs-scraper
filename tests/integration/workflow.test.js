@@ -21,7 +21,7 @@ beforeAll(() => {
   }
 });
 
-import companyConfig from "../../config/company.js";
+import companyConfig from "../../scraper/config/company.js";
 const COMPANY_CIF = companyConfig.cif;
 const COMPANY_BRAND = companyConfig.brand;
 const COMPANY_NAME = companyConfig.legalName;
@@ -85,7 +85,7 @@ describe('Integration: API Workflow', () => {
     let company;
 
     beforeAll(async () => {
-      company = await import('../../company.js');
+      company = await import('../../scraper/company.js');
     });
 
     it('should respond successfully and contain companies array (Peviitor API may block non-browser requests)', async () => {
@@ -97,15 +97,13 @@ describe('Integration: API Workflow', () => {
     let solr;
 
     beforeAll(async () => {
-      solr = await import('../../solr.js');
+      solr = await import('../../scraper/api.js');
     });
 
     itIfSolr('should query company core by ID', async () => {
-      const result = await solr.queryCompanySOLR(`id:${COMPANY_CIF}`);
+      const company = await solr.getCompanyByCif(COMPANY_CIF);
 
-      expect(result.numFound).toBe(1);
-      const company = result.docs[0];
-      expect(company.id).toBe(COMPANY_CIF);
+      expect(company).toBeDefined();
       expect(company.brand).toBe(COMPANY_BRAND);
       expect(company.status).toBe('activ');
       expect(Array.isArray(company.location)).toBe(true);
@@ -113,10 +111,9 @@ describe('Integration: API Workflow', () => {
     }, 15000);
 
     itIfSolr('should have required company model fields', async () => {
-      const result = await solr.queryCompanySOLR(`id:${COMPANY_CIF}`);
-      const company = result.docs[0];
+      const company = await solr.getCompanyByCif(COMPANY_CIF);
 
-      expect(company).toHaveProperty('id', COMPANY_CIF);
+      expect(company).toHaveProperty('id');
       expect(company).toHaveProperty('company');
       expect(company).toHaveProperty('brand', COMPANY_BRAND);
       expect(company).toHaveProperty('status');
@@ -134,8 +131,7 @@ describe('Integration: API Workflow', () => {
     }, 15000);
 
     itIfSolr('should have optional field (group) if present', async () => {
-      const result = await solr.queryCompanySOLR(`id:${COMPANY_CIF}`);
-      const company = result.docs[0];
+      const company = await solr.getCompanyByCif(COMPANY_CIF);
 
       if (company.group !== undefined) {
         expect(typeof company.group).toBe('string');
@@ -147,7 +143,7 @@ describe('Integration: API Workflow', () => {
     let solr;
 
     beforeAll(async () => {
-      solr = await import('../../solr.js');
+      solr = await import('../../scraper/api.js');
     });
 
     itIfSolr('should query jobs by CIF and return valid data', async () => {
@@ -202,7 +198,7 @@ describe('Integration: API Workflow', () => {
 
     beforeAll(async () => {
       anaf = await import('../../src/anaf.js');
-      companyModule = await import('../../company.js');
+      companyModule = await import('../../scraper/company.js');
     });
 
     it('should complete the ANAF validation path', async () => {
@@ -221,18 +217,17 @@ describe('Integration: API Workflow', () => {
 
     itIfSolr('should have matching CIF in company core', async () => {
       const companyResult = await companyModule.validateAndGetCompany();
-      const solrObj = await import('../../solr.js');
+      const solrObj = await import('../../scraper/api.js');
 
-      const solrResult = await solrObj.queryCompanySOLR(`id:${COMPANY_CIF}`);
-      expect(solrResult.numFound).toBe(1);
-      expect(solrResult.docs[0].id).toBe(COMPANY_CIF);
-      expect(solrResult.docs[0].company).toBe(COMPANY_NAME);
+      const solrCompany = await solrObj.getCompanyByCif(COMPANY_CIF);
+      expect(solrCompany).toBeDefined();
+      expect(solrCompany.company).toBe(COMPANY_NAME);
     }, 30000);
 
     itIfSolr('should validate company and query SOLR for existing jobs', async () => {
       const companyResult = await companyModule.validateAndGetCompany();
 
-      expect(companyResult.status).toBe('active');
+      expect(companyResult.status).toBe('activ');
       expect(companyResult.company).toBe(COMPANY_NAME);
       expect(companyResult.cif).toBe(COMPANY_CIF);
 

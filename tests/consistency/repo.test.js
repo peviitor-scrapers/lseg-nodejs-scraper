@@ -7,7 +7,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const REPO = process.env.GITHUB_REPOSITORY;
 const TOKEN = process.env.GITHUB_TOKEN;
 const SCRAPER_YML = ".github/workflows/job-seeker-ro-spider.yml";
-import companyConfig from "../../config/company.js";
+import companyConfig from "../../scraper/config/company.js";
 
 
 function repoUrl(apiPath) {
