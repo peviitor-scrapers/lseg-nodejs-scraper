@@ -19,6 +19,7 @@ const Peviitor_API_URL = "https://api.peviitor.ro/v1/company/";
 
 const COMPANY_CIF = companyConfig.cif;
 const COMPANY_BRAND = companyConfig.brand;
+const COMPANY_LEGAL_NAME = companyConfig.legalName;
 
 const CACHE_MAX_AGE_DAYS = 7;
 const ROOT_CACHE_PATH = "company.json";
@@ -135,8 +136,8 @@ export async function getCompanyData() {
   try {
     anafData = await getCompanyFromANAF(COMPANY_CIF);
   } catch (err) {
-    if (cachedData?._stale) {
-      console.log(`⚠️ ANAF unreachable (${err.message}) — falling back to stale cache`);
+    if (cachedData?.anaf) {
+      console.log(`⚠️ ANAF unreachable (${err.message}) — falling back to cached data`);
       const a = cachedData.anaf;
       return {
         company: a.name.toUpperCase(),
@@ -145,7 +146,13 @@ export async function getCompanyData() {
         anafData: a
       };
     }
-    throw err;
+    console.log(`⚠️ ANAF unreachable (${err.message}) — no cache available, proceeding with company config`);
+    return {
+      company: COMPANY_LEGAL_NAME,
+      cif: COMPANY_CIF,
+      active: true,
+      anafData: null
+    };
   }
 
   if (!anafData) {
