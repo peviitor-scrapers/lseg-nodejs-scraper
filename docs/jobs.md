@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-07-28 |
+| Last Scraped | 2026-07-29 |
 
-## Current Job Listings (62)
+## Current Job Listings (63)
 
-_Generated: 2026-07-28T14:11:52.899Z_
+_Generated: 2026-07-29T08:52:06.071Z_
 
 ### Lead Data Engineer
 
@@ -86,6 +86,14 @@ _Generated: 2026-07-28T14:11:52.899Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
+- **Status:** scraped
+
+### Content Specialist
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Content-Specialist_R0121964](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Content-Specialist_R0121964)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** operations
 - **Status:** scraped
 
 ### Senior Security Specialist – Penetration Testing
