@@ -286,6 +286,7 @@ async function main() {
     console.log("=== Step 2: Validate company via ANAF ===");
     const { company, cif, address, status } = await validateAndGetCompany();
     COMPANY_NAME = company;
+
     if (status === 'inactive') {
       console.log("⚠️ Company is INACTIVE — jobs deleted, skipping scrape.");
       return;
