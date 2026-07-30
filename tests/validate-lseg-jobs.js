@@ -4,6 +4,7 @@
  * Multiple validation modes:
  *   --head      HEAD requests only (fast, default)
  *   --content   GET + body scan (catches HTML soft-404s)
+ *   --browser   Playwright headless Chromium (catches JS-rendered 404s)
  *
  * Action flags:
  *   --dry-run   Show invalid jobs but do not delete
@@ -13,7 +14,7 @@
  */
 import companyConfig from "../scraper/config/company.js";
 import { querySOLR, deleteJobByUrl } from "../scraper/api.js";
-import { validateByHead, validateByContent } from "../scraper/job-validator.js";
+import { validateByHead, validateByContent, validateByBrowser } from "../scraper/job-validator.js";
 
 const CIF = companyConfig.cif;
 const COMPANY = companyConfig.legalName;
@@ -27,6 +28,7 @@ function getTimeout() {
 }
 
 function getValidator() {
+  if (process.argv.includes("--browser")) return validateByBrowser;
   if (process.argv.includes("--content")) return validateByContent;
   return validateByHead;
 }
@@ -36,7 +38,7 @@ async function main() {
   const doDelete = process.argv.includes("--delete");
   const timeout = getTimeout();
   const validate = getValidator();
-  const mode = process.argv.includes("--content") ? "content" : "head";
+  const mode = process.argv.includes("--browser") ? "browser" : process.argv.includes("--content") ? "content" : "head";
 
   console.log(`=== Validating ${COMPANY} (CIF: ${CIF}) | mode: ${mode}${timeout ? ` | timeout: ${timeout}ms` : ""} ===\n`);
 
