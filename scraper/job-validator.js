@@ -10,7 +10,7 @@
  * Used by:
  *   - tests/validate-lseg-jobs.js (CI nightly cleanup) — uses validateByHead
  *   - validate-jobs.js (manual deep checks)            — uses validateByContent
- *   - .github/workflows/deep-validate.yml (manual)     — uses validateByBrowser
+ *   - .github/workflows/job-deep-validate.yml (manual)     — uses validateByBrowser
  */
 
 import fetch from "node-fetch";
