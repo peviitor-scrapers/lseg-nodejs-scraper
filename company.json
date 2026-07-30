@@ -1,0 +1,120 @@
+{
+  "validatedAt": "2026-07-30T05:05:40.487Z",
+  "source": "ANAF",
+  "brand": "LSEG",
+  "anaf": {
+    "cui": 39176747,
+    "name": "LSEG BUSINESS SERVICES RM S.R.L.",
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4",
+    "registrationNumber": "J2018005052401",
+    "phone": "",
+    "fax": "",
+    "postalCode": "",
+    "caenCode": "6220",
+    "iban": "",
+    "registrationState": "TRANSFER(SOSIRE) din data 10.12.2018",
+    "registrationDate": "2018-04-12",
+    "fiscalAuthority": "Direcţia Generală de Administrare a Marilor Contribuabili",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT STRAIN",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "2019-02-14",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": false,
+    "headquartersAddress": {
+      "street": "Bld. Iuliu Maniu",
+      "number": "6F",
+      "locality": "Sector 6 Mun. Bucureşti",
+      "county": "MUNICIPIUL BUCUREŞTI",
+      "country": "",
+      "postalCode": ""
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [
+      {
+        "name": "BOSOIU ANDREI CONSTANTIN",
+        "role": "administrator"
+      },
+      {
+        "name": "BĂLAN CRISTIAN",
+        "role": "administrator"
+      },
+      {
+        "name": "COZMEAN IOANA - SIMONA",
+        "role": "administrator"
+      },
+      {
+        "name": "STĂNESCU ANDREEA   DANA",
+        "role": "administrator"
+      },
+      {
+        "name": "TUDOR MIHAI",
+        "role": "administrator"
+      }
+    ],
+    "authorizedCaenCodes": [
+      "5819",
+      "5829",
+      "6201",
+      "6203",
+      "6209",
+      "6311",
+      "6312",
+      "6399",
+      "7022",
+      "7120",
+      "8211",
+      "8219",
+      "8299"
+    ],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": {
+    "id": "39176747",
+    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
+    "brand": "LSEG",
+    "status": "activ",
+    "location": [
+      "București"
+    ],
+    "website": [
+      "https://www.lseg.com"
+    ],
+    "career": [
+      "https://www.lseg.com/en/careers"
+    ],
+    "lastScraped": "2026-07-30",
+    "scraperFile": "https://raw.githubusercontent.com/sebiboga/lseg-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml",
+    "_version_": 1872114883220209700,
+    "_root_": "39176747"
+  },
+  "summary": {
+    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
+    "cif": "39176747",
+    "active": true,
+    "inactiveSince": null,
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4"
+  }
+}

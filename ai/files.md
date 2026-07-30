@@ -52,7 +52,7 @@
 | `AI-DERIVATION-GUIDE.md` | **Comprehensive playbook for AI agents deriving a new scraper from this template.** Step-by-step + every known pitfall. |
 | `BRANCH.md` | Branch strategy and naming conventions |
 
-| `CONTRIBUTING.md` | Contribution guidelines |
+
 | `ISSUES.md` | Issue tracking conventions |
 | `PUBLIC.md` | Notes on public visibility and data policies |
 | `ROBOTS.md` | robots.txt analysis and scraping policy for LSEG Careers |
@@ -71,6 +71,7 @@
 | `.gitignore` | Ignores node_modules/, tmp/, .env.local |
 | `.env.local` | Local environment variables - NOT committed |
 | `CHANGELOG.md` | Version history and notable changes |
+| `CONTRIBUTING.md` | Contribution guidelines |
 | `.github/CODEOWNERS` | Code ownership rules for PR reviews |
 | `.github/workflows/job-seeker-ro-spider.yml` | Daily scraping workflow (6 AM UTC) |
 | `.github/workflows/automation-testing.yml` | Automated tests on every push/PR |
