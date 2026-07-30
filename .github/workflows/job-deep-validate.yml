@@ -2,11 +2,6 @@ name: Deep Validate Jobs
 
 on:
   workflow_dispatch:
-    inputs:
-      dry_run:
-        description: 'Dry run mode (no deletions)'
-        required: true
-        default: 'true'
 
 jobs:
   deep-validate:
@@ -35,11 +30,4 @@ jobs:
         run: npx playwright install chromium --with-deps
 
       - name: Deep validate (browser mode — catches JS 404s)
-        run: |
-          FLAGS="--browser --timeout 30000"
-          if [ "${{ github.event.inputs.dry_run }}" == "true" ]; then
-            FLAGS="$FLAGS --dry-run"
-          else
-            FLAGS="$FLAGS --delete"
-          fi
-          node --no-deprecation tests/validate-lseg-jobs.js $FLAGS
+        run: node --no-deprecation tests/validate-lseg-jobs.js --browser --timeout 30000 --delete
