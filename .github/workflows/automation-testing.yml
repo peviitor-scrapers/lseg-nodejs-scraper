@@ -66,18 +66,56 @@ jobs:
       - name: Install dependencies
         run: npm install
         
-      - name: Validate and remove expired jobs
+      - name: Validate and remove expired jobs (daily — HEAD mode)
         run: |
+          FLAGS="--head"
           if [ "${{ github.event_name }}" == "schedule" ]; then
-            echo "Schedule trigger — running LIVE mode..."
-            node --no-deprecation tests/validate-lseg-jobs.js --delete
+            FLAGS="$FLAGS --delete"
           elif [ "${{ github.event.inputs.dry_run }}" == "true" ]; then
-            echo "Running in DRY RUN mode..."
-            node --no-deprecation tests/validate-lseg-jobs.js --dry-run
+            FLAGS="$FLAGS --dry-run"
           else
-            echo "Running in LIVE mode (will delete expired jobs)..."
-            node --no-deprecation tests/validate-lseg-jobs.js --delete
+            FLAGS="$FLAGS --delete"
           fi
+          node --no-deprecation tests/validate-lseg-jobs.js $FLAGS
+
+  deep-validate-jobs:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch'
+    needs: Automation-Tests
+    
+    steps:
+      - uses: actions/checkout@v5
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+          
+      - name: Install dependencies
+        run: npm install
+          
+      - name: Cache Playwright browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          
+      - name: Install Playwright Chromium
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: npx playwright install chromium --with-deps
+        
+      - name: Deep validate (browser mode — catches JS 404s)
+        run: |
+          FLAGS="--browser --timeout 30000"
+          if [ "${{ github.event_name }}" == "schedule" ]; then
+            FLAGS="$FLAGS --delete"
+          elif [ "${{ github.event.inputs.dry_run }}" == "true" ]; then
+            FLAGS="$FLAGS --dry-run"
+          else
+            FLAGS="$FLAGS --delete"
+          fi
+          node --no-deprecation tests/validate-lseg-jobs.js $FLAGS
 
   ensure-company-core:
     runs-on: ubuntu-latest
