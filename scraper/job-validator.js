@@ -4,12 +4,10 @@
  * - validateByHead(url): fast HEAD check, only HTTP status matters.
  * - validateByContent(url, opts): GET the page and scan body for expiration
  *   keywords (catches soft-404s where status is 200 but the job is gone).
- * - validateByBrowser(url, opts): headless Chromium via Playwright — catches
- *   JS-rendered 404 text (Workday SPAs, etc.).
  *
  * Used by:
- *   - tests/validate-lseg-jobs.js (CI nightly cleanup)
- *   - validate-jobs.js (manual deep checks)
+ *   - tests/validate-lseg-jobs.js (CI nightly cleanup) — uses validateByHead
+ *   - validate-jobs.js (manual deep checks)            — uses validateByContent
  */
 
 import fetch from "node-fetch";
@@ -91,42 +89,4 @@ export async function validateByContent(url, {
   }
 }
 
-/**
- * Headless browser validator via Playwright. Opens the URL in Chromium, waits
- * for the SPA to render, then checks the DOM for expired keywords. Catches
- * JS-rendered 404 pages that return HTTP 200.
- *
- * Falls back to validateByContent if Playwright is not installed.
- */
-export async function validateByBrowser(url, {
-  keywords = DEFAULT_EXPIRED_KEYWORDS,
-  timeout = DEFAULT_TIMEOUT_MS
-} = {}) {
-  let browser;
-  try {
-    const { chromium } = await import("playwright");
-    browser = await chromium.launch({ headless: true, args: ["--no-sandbox"] });
-    const page = await browser.newPage();
-    await page.goto(url, { waitUntil: "networkidle", timeout });
 
-    const text = await page.innerText("body");
-    const lower = text.toLowerCase();
-    const expired = keywords.some(kw => lower.includes(kw));
-    const title = await page.title();
-
-    await browser.close();
-    return {
-      url,
-      status: expired ? "expired" : "active",
-      httpStatus: 200,
-      title: title || null,
-      error: null
-    };
-  } catch (err) {
-    if (browser) await browser.close().catch(() => {});
-    if (err.message && err.message.includes("Cannot find module")) {
-      return validateByContent(url, { keywords });
-    }
-    return { url, status: "error", httpStatus: 0, title: null, error: err.message };
-  }
-}
