@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-07-30 |
+| Last Scraped | 2026-07-31 |
 
-## Current Job Listings (63)
+## Current Job Listings (65)
 
-_Generated: 2026-07-30T08:38:44.921Z_
+_Generated: 2026-07-31T09:10:55.666Z_
 
 ### Lead Data Engineer
 
@@ -85,6 +85,30 @@ _Generated: 2026-07-30T08:38:44.921Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Manager Risk & Controls (D&A)
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Manager-Risk---Controls--D-A-_R0121032](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Manager-Risk---Controls--D-A-_R0121032)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Data Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Data-Engineer_R0122012](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Data-Engineer_R0122012)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Manager, AI Productivity
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--AI-Productivity_R0117854-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--AI-Productivity_R0117854-1)
+- **Work Mode:** hybrid
+- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -312,7 +336,7 @@ _Generated: 2026-07-30T08:38:44.921Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Senior Software Engineer Regulatory News (AI/C#/Java)
+### Senior Software Engineer Regulatory News (AI/C\#/Java)
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer-Regulatory-News--AI-_R0120643-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer-Regulatory-News--AI-_R0120643-1)
 - **Work Mode:** hybrid
@@ -443,14 +467,6 @@ _Generated: 2026-07-30T08:38:44.921Z_
 ### Senior Analyst, Transformation Delivery
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Analyst--Transformation-Delivery_R0118600-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Analyst--Transformation-Delivery_R0118600-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Manager, AI Productivity
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--AI-Productivity_R0117854-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--AI-Productivity_R0117854-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
