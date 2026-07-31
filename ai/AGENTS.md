@@ -61,3 +61,11 @@ npm run test:consistency   # needs GITHUB_REPOSITORY + GITHUB_TOKEN
 - `scraper/company.js`
 - `scraper/job-validator.js`
 - `scraper/validate-jobs.js`
+
+### 7. Maintenance Agent
+See [MAINTENANCE.md](MAINTENANCE.md) for the full maintenance workflow.
+
+**On every session:**
+1. Check open GitHub issues: `gh issue list --repo sebiboga/lseg-nodejs-scraper --state open`
+2. Prioritize: `critical` → `bug` → `enhancement` → `documentation`
+3. Fix all issues, commit with `#issue` reference, close the issue
