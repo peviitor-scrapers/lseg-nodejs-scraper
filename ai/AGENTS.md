@@ -3,8 +3,8 @@
 ## Project
 LSEG scraper for peviitor.ro (Node.js, ESM, Jest)
 
-## 🌱 This Repo Is a Derived Scraper
-This repo is a **derived scraper** for LSEG, generated from the ULMA template. The source of truth for company identity is `scraper/config/company.json`.
+## 🌱 This Repo Follows the Peviitor Scraper Standard
+This repo is a **standard peviitor scraper** for LSEG. The source of truth for company identity is `scraper/config/company.json`.
 
 When making changes:
 - **All company-specific identity lives in `scraper/config/company.json`** (id, company, brand, status, location[], website[], career[], API params). Read from `scraper/config/company.js` in Node code, or via `jq` in workflows. Never hardcode in source files.

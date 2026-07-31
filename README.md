@@ -13,7 +13,7 @@
 
 **job_seeker_ro_spider** — un scraper pentru job-urile LSEG din România. Extrage anunțurile de pe [LSEG Careers](https://lseg.wd3.myworkdayjobs.com/en/jobs/romania) și le publică în [peviitor.ro](https://peviitor.ro) prin API-ul Peviitor.
 
-> **🌱 Derived scraper.** Acest repo a fost derivat din [ULMA template](https://github.com/sebiboga/ulma-packaging-srl-nodejs-scraper) (Workday API + ANOFM).
+> **🌱 Scraper standard peviitor.** Acest repo urmează structura standard a scraperelor din ecosistemul peviitor (identitate companie în `scraper/config/company.json`, module ANAF/API reutilizabile, teste unitare/integrare/e2e uniforme).
 
 ## Overview
 

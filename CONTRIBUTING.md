@@ -2,11 +2,9 @@
 
 Thank you for your interest in contributing!
 
-## 🌱 This Repo Is a Derived Scraper
+## 🌱 This Repo Follows the Peviitor Scraper Standard
 
-This repo is a **derived scraper** for LSEG, generated from the [ULMA template](https://github.com/sebiboga/ulma-packaging-srl-nodejs-scraper).
-
-For instructions on deriving a new scraper from the ULMA template, see the template's [CONTRIBUTING.md](https://github.com/sebiboga/ulma-packaging-srl-nodejs-scraper/blob/main/CONTRIBUTING.md).
+This repo is a **standard peviitor scraper** for LSEG. The company identity lives in a single file (`scraper/config/company.json`) and the scraper modules (`anaf.js`, `api.js`, `job-validator.js`, `validate-jobs.js`) are shared across the peviitor scraper ecosystem.
 
 ## Development Setup
 
