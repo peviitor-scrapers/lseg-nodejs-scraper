@@ -46,9 +46,9 @@ function itIfAnaf(name, fn, timeout) {
 }
 
 import companyConfig from '../../scraper/config/company.js';
-const TEST_CIF = companyConfig.cif;
+const TEST_CIF = companyConfig.id;
 const TEST_BRAND = companyConfig.brand;
-const COMPANY_NAME = companyConfig.legalName;
+const COMPANY_NAME = companyConfig.company;
 const JOB_BASE = companyConfig.apiBase;
 const LSEG_API_URL = `${JOB_BASE}/wday/cxs/lseg/Careers/jobs`;
 
@@ -197,7 +197,7 @@ describe('E2E: Full Scraping Pipeline', () => {
     let company;
 
     beforeAll(async () => {
-      anaf = await import('../../scraper/company-data.js');
+      anaf = await import('../../scraper/anaf.js');
       company = await import('../../scraper/company.js');
     });
 
@@ -235,7 +235,7 @@ describe('E2E: Full Scraping Pipeline', () => {
     let anaf;
 
     beforeAll(async () => {
-      anaf = await import('../../scraper/company-data.js');
+      anaf = await import('../../scraper/anaf.js');
     });
 
     itIfAnaf('should detect inactive/radiated companies via ANAF', async () => {

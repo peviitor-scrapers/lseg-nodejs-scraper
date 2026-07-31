@@ -1,11 +1,18 @@
 {
-  "cif": "39176747",
-  "legalName": "LSEG BUSINESS SERVICES RM S.R.L.",
+  "id": "39176747",
+  "company": "LSEG BUSINESS SERVICES RM S.R.L.",
   "brand": "LSEG",
-  "website": "https://www.lseg.com",
-  "careerUrl": "https://www.lseg.com/en/careers",
+  "status": "activ",
+  "location": [
+    "București"
+  ],
+  "website": [
+    "https://www.lseg.com"
+  ],
+  "career": [
+    "https://www.lseg.com/en/careers"
+  ],
   "apiBase": "https://lseg.wd3.myworkdayjobs.com",
   "apiCountryId": "f2e609fe92974a55a05fc1cdc2852122",
-  "defaultLocation": "București",
-  "scraperFile": "https://raw.githubusercontent.com/sebiboga/lseg-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
+  "scraperFile": "https://raw.githubusercontent.com/peviitor-scrapers/lseg-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
 }

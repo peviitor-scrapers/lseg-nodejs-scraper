@@ -125,8 +125,8 @@ generateJobsMarkdown() → docs/jobs.md
 | `scraper/config/company.js` | ESM wrapper that loads `scraper/config/company.json` for Node code |
 | `scraper/index.js` | Main entry point - full workflow: validate company → scrape → transform → upsert → generate docs/jobs.md |
 | `scraper/company.js` | Validates company via ANAF + CUIScan + Peviitor; caches in `scraper/anaf-cache.json` (7-day TTL) |
-| `scraper/company-data.js` | Multi-source company data module - ANAF + CUIScan (company details) + CUIFirma (search) |
-| `scraper/company-data-cli.js` | CLI entry point for company-data.js (thin wrapper) |
+| `scraper/anaf.js` | Multi-source company data module - ANAF + CUIScan (company details) + CUIFirma (search) |
+| `scraper/demoanaf.js` | CLI entry point for anaf.js (thin wrapper) |
 | `scraper/api.js` | Peviitor API operations module - query, delete, upsert jobs + standalone commands |
 | `scraper/validate-jobs.js` | Manual deep validator (content-aware); thin CLI wrapper over `scraper/job-validator.js` |
 | `scraper/job-validator.js` | Shared validation primitives: `validateByHead`, `validateByContent`, `DEFAULT_EXPIRED_KEYWORDS` |
@@ -134,7 +134,7 @@ generateJobsMarkdown() → docs/jobs.md
 | `tests/unit/index.test.js` | Unit tests for parseApiJobs, mapToJobModel, transformJobsForSOLR |
 | `tests/unit/company.test.js` | Unit tests for validateAndGetCompany and fallback caching |
 | `tests/unit/api.test.js` | Unit tests for api.js - query, upsert, delete, HTTP error handling |
-| `tests/unit/company-data.test.js` | Unit tests for company-data.js - ANAF search and company retrieval |
+| `tests/unit/demoanaf.test.js` | Unit tests for anaf.js - ANAF search and company retrieval |
 | `tests/integration/workflow.test.js` | Live integration tests - ANAF + SOLR |
 | `tests/e2e/scraper.test.js` | End-to-end tests with real scraping pipeline |
 | `tests/consistency/public.test.js` | Verifies repo is public on GitHub |
@@ -156,8 +156,8 @@ The scraper is intentionally slow to be a good citizen:
 
 | Setting | Value | Where |
 |---------|-------|-------|
-| Request timeout | 10000 ms | `scraper/company-data.js` — `TIMEOUT_MS` constant |
-| ANAF retries | 1 attempt, no retry | `scraper/company-data.js` — ANAF → CUIScan fallback |
+| Request timeout | 10000 ms | `scraper/anaf.js` — `TIMEOUT_MS` constant |
+| ANAF retries | 1 attempt, no retry | `scraper/anaf.js` — ANAF → CUIScan fallback |
 | Concurrency | 1 (sequential) | No `Promise.all` for paginated fetches |
 | User-Agent | `job_seeker_ro_spider` | Identifies the scraper in server logs |
 
@@ -185,10 +185,10 @@ node scraper/api.js extract <CIF>
 node scraper/api.js company <search_term>
 
 # Get company details from ANAF/CUIScan by CIF
-node scraper/company-data-cli.js <CIF>
+node scraper/demoanaf.js <CIF>
 
 # Search companies in ANAF/CUIFirma by brand
-node scraper/company-data-cli.js search <brand>
+node scraper/demoanaf.js search <brand>
 
 # Validate job URLs from SOLR by CIF (check active/expired)
 node scraper/validate-jobs.js <CIF>
@@ -204,7 +204,7 @@ node scraper/validate-jobs.js <CIF> --delete
 
 This project requires multiple levels of testing:
 
-1. **Unit Tests** - Test individual modules (api.js, company.js, company-data.js) in isolation
+1. **Unit Tests** - Test individual modules (api.js, company.js, anaf.js) in isolation
 2. **Integration Tests** - Test API interactions (ANAF, Peviitor, SOLR) in `/tests/integration` folder
 3. **E2E Tests** - Test full workflow in `/tests/e2e` folder
 
@@ -219,7 +219,7 @@ All temporary/scratch files must be placed in `tmp/` inside the project root (ne
 
 ## Technical Debt / Completed
 
-- [x] Extract company-data-cli.js to separate module (#2)
+- [x] Extract demoanaf.js to separate module (#2)
 - [x] Write Unit Tests for all modules (#3)
 - [x] Write Integration Tests in separate folder (#4)
 - [x] Write E2E automated tests in separate folder (#5)

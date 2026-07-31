@@ -6,8 +6,8 @@
 |------|-------------|
 | `scraper/index.js` | Main scraper - full workflow: validate company → scrape → transform → upsert → generate docs/jobs.md |
 | `scraper/company.js` | Validates company via ANAF + CUIScan + Peviitor APIs, checks if company is active/inactive |
-| `scraper/company-data.js` | Multi-source company data module - ANAF + CUIScan (company details) + CUIFirma (search). Exports `getCompanyFromANAF`, `getCompanyFromANAFWithFallback`, `searchCompany` |
-| `scraper/company-data-cli.js` | CLI entry point for company-data.js (thin wrapper) |
+| `scraper/anaf.js` | Multi-source company data module - ANAF + CUIScan (company details) + CUIFirma (search). Exports `getCompanyFromANAF`, `getCompanyFromANAFWithFallback`, `searchCompany` |
+| `scraper/demoanaf.js` | CLI entry point for anaf.js (thin wrapper) |
 | `scraper/api.js` | Peviitor API operations module - exports querySOLR, deleteJobByUrl, upsertJobs + standalone verify/extract/company commands |
 | `scraper/validate-jobs.js` | **Generic deep validator (manual use).** Full GET requests, parses page body for "no longer available" keywords. Works with any CIF, single URL, or file. Slower but catches soft-404s. Not used by CI. |
 | `scraper/job-validator.js` | Shared validation primitives - exports validateByHead(url), validateByContent(url, opts), DEFAULT_EXPIRED_KEYWORDS. Used by both `validate-jobs.js` and `tests/validate-lseg-jobs.js`. |
@@ -30,7 +30,7 @@
 | `tests/unit/index.test.js` | Unit tests for index.js - parseApiJobs, mapToJobModel, transformJobsForSOLR |
 | `tests/unit/company.test.js` | Unit tests for company.js - getCompanyBrand, validateAndGetCompany, fallback caching |
 | `tests/unit/api.test.js` | Unit tests for api.js - query, upsert, delete, HTTP error handling |
-| `tests/unit/company-data.test.js` | Unit tests for company-data.js - search, company retrieval, CUIScan/CUIFirma fallback |
+| `tests/unit/demoanaf.test.js` | Unit tests for anaf.js - search, company retrieval, CUIScan/CUIFirma fallback |
 | `tests/unit/job-validator.test.js` | Unit tests for job-validator.js - validateByHead, validateByContent |
 | `tests/unit/markdown-generator.test.js` | Unit tests for markdown-generator.js |
 | `tests/integration/workflow.test.js` | Integration tests - ANAF live API, Peviitor API, SOLR company/job cores |

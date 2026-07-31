@@ -35,7 +35,7 @@ For each open issue:
 
 After any code change that touches `scraper/config/company.json` or reads from it:
 
-- Verify the field names match the actual schema: `cif`, `legalName`, `brand`, `website`, `careerUrl`, `defaultLocation`, `scraperFile`
+- Verify the field names match the actual schema: `id`, `company`, `brand`, `status`, `location[]`, `website[]`, `career[]`, `scraperFile`
 - Check ALL consumers (workflows, HTML, tests) use the correct field names
 - Run: `grep -rn "\.id\|\.company\|\.career\[\|\.location\[" .github/ docs/ tests/ scraper/` to find stale references
 

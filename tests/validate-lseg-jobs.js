@@ -16,8 +16,8 @@ import companyConfig from "../scraper/config/company.js";
 import { querySOLR, deleteJobByUrl } from "../scraper/api.js";
 import { validateByHead, validateByContent, validateByBrowser } from "../scraper/job-validator.js";
 
-const CIF = companyConfig.cif;
-const COMPANY = companyConfig.legalName;
+const CIF = companyConfig.id;
+const COMPANY = companyConfig.company;
 
 function getTimeout() {
   const idx = process.argv.indexOf("--timeout");

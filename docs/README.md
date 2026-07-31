@@ -32,8 +32,8 @@ job_seeker_ro_spider
 │   ├── config/company.js       # Loader ESM pentru config/company.json
 │   ├── index.js                # Orchestrator principal
 │   ├── company.js              # Validare companie (ANAF + Peviitor) cu cache 7 zile
-│   ├── company-data.js         # Modul multi-sursă: ANAF + CUIScan + CUIFirma
-│   ├── company-data-cli.js     # CLI wrapper pentru company-data.js
+│   ├── anaf.js                # Modul multi-sursă: ANAF + CUIScan + CUIFirma
+│   ├── demoanaf.js            # CLI wrapper pentru anaf.js
 │   ├── api.js                  # Operații Peviitor API (query, upsert, delete, company)
 │   ├── job-validator.js        # Primitivă comună: validateByHead, validateByContent
 │   └── markdown-generator.js   # Generează docs/jobs.md după scrape
