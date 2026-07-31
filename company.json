@@ -106,7 +106,7 @@
       "https://www.lseg.com/en/careers"
     ],
     "lastScraped": "2026-07-30",
-    "scraperFile": "https://raw.githubusercontent.com/sebiboga/lseg-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml",
+    "scraperFile": "https://github.com/peviitor-scrapers/lseg-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml",
     "_version_": 1872114883220209700,
     "_root_": "39176747"
   },

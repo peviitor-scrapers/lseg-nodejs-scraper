@@ -14,5 +14,5 @@
   ],
   "apiBase": "https://lseg.wd3.myworkdayjobs.com",
   "apiCountryId": "f2e609fe92974a55a05fc1cdc2852122",
-  "scraperFile": "https://raw.githubusercontent.com/peviitor-scrapers/lseg-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
+  "scraperFile": "https://github.com/peviitor-scrapers/lseg-nodejs-scraper/actions/workflows/job-seeker-ro-spider.yml"
 }
