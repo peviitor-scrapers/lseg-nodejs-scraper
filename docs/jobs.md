@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-07-31 |
+| Last Scraped | 2026-08-01 |
 
-## Current Job Listings (65)
+## Current Job Listings (64)
 
-_Generated: 2026-07-31T09:10:55.666Z_
+_Generated: 2026-08-01T08:29:16.937Z_
 
 ### Lead Data Engineer
 
@@ -88,6 +88,30 @@ _Generated: 2026-07-31T09:10:55.666Z_
 - **Tags:** engineering
 - **Status:** scraped
 
+### Advisor, Employee Services – France Support
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** people
+- **Status:** scraped
+
+### Senior Delivery Analyst
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Delivery-Analyst_R0121687-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Delivery-Analyst_R0121687-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Lead NSO Developer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-NSO-Developer_R0120469-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-NSO-Developer_R0120469-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
 ### Senior Manager Risk & Controls (D&A)
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Manager-Risk---Controls--D-A-_R0121032](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Manager-Risk---Controls--D-A-_R0121032)
@@ -110,14 +134,6 @@ _Generated: 2026-07-31T09:10:55.666Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
-- **Status:** scraped
-
-### Advisor, Employee Services – France Support (Fixed Term)
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** people
 - **Status:** scraped
 
 ### Manager, Site Reliability Engineering
@@ -277,22 +293,6 @@ _Generated: 2026-07-31T09:10:55.666Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-DevOps-Engineer_R0119991-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-DevOps-Engineer_R0119991-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Platform Engineer - Identity
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Platform-Engineer---Identity_R0120696-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Platform-Engineer---Identity_R0120696-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Lead NSO Developer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-NSO-Developer_R0120469-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-NSO-Developer_R0120469-1)
-- **Work Mode:** hybrid
-- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -475,14 +475,6 @@ _Generated: 2026-07-31T09:10:55.666Z_
 ### Lead AI Engineer, AI Productivity
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-AI-Engineer--AI-Productivity_R0117979-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-AI-Engineer--AI-Productivity_R0117979-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Observability Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/ROU-Bucharest-Iuliu-Maniu-Boulevard/Observability-Engineer_R0118073](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/ROU-Bucharest-Iuliu-Maniu-Boulevard/Observability-Engineer_R0118073)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
