@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-03 |
+| Last Scraped | 2026-08-04 |
 
 ## Current Job Listings (65)
 
-_Generated: 2026-08-03T09:57:58.054Z_
+_Generated: 2026-08-04T08:48:22.189Z_
 
 ### Lead Data Engineer
 
@@ -88,20 +88,28 @@ _Generated: 2026-08-03T09:57:58.054Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Junior Full Stack Developer - Issuer Services
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Junior-Full-Stack-Developer---Issuer-Services_R0120002-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Junior-Full-Stack-Developer---Issuer-Services_R0120002-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Advisor, Employee Services – France Support
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** people
+- **Status:** scraped
+
+### Senior Business Analyst
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Business-Analyst_R0121065-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Business-Analyst_R0121065-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Junior Full Stack Developer - Issuer Services
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Junior-Full-Stack-Developer---Issuer-Services_R0120002-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Junior-Full-Stack-Developer---Issuer-Services_R0120002-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
 - **Status:** scraped
 
 ### Senior Delivery Analyst
@@ -275,14 +283,6 @@ _Generated: 2026-08-03T09:57:58.054Z_
 ### Senior Specialist, Database SRE
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Specialist--Database-SRE_R0111117-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Specialist--Database-SRE_R0111117-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Lead Full Stack Developer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Lead-Full-Stack-Developer_R0120550-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Lead-Full-Stack-Developer_R0120550-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
