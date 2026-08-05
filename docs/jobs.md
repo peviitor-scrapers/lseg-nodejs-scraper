@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-04 |
+| Last Scraped | 2026-08-05 |
 
 ## Current Job Listings (65)
 
-_Generated: 2026-08-04T08:48:22.189Z_
+_Generated: 2026-08-05T08:45:35.931Z_
 
 ### Lead Data Engineer
 
@@ -86,6 +86,14 @@ _Generated: 2026-08-04T08:48:22.189Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
+- **Status:** scraped
+
+### AI Validator
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/AI-Validator_R0121098](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/AI-Validator_R0121098)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** risk
 - **Status:** scraped
 
 ### Advisor, Employee Services – France Support
@@ -310,14 +318,6 @@ _Generated: 2026-08-04T08:48:22.189Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
-- **Status:** scraped
-
-### AI Validator
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/AI-Validator_R0121098](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/AI-Validator_R0121098)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** risk
 - **Status:** scraped
 
 ### AI Senior Risk Manager (Fixed Term)
