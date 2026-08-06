@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-05 |
+| Last Scraped | 2026-08-06 |
 
 ## Current Job Listings (65)
 
-_Generated: 2026-08-05T08:45:35.931Z_
+_Generated: 2026-08-06T08:47:09.307Z_
 
 ### Lead Data Engineer
 
@@ -86,6 +86,14 @@ _Generated: 2026-08-05T08:45:35.931Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
+- **Status:** scraped
+
+### Senior Manager, Employment Tax
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--Employment-Tax_R0120910](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--Employment-Tax_R0120910)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** operations
 - **Status:** scraped
 
 ### AI Validator
@@ -333,14 +341,6 @@ _Generated: 2026-08-05T08:45:35.931Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Cloud-Platform-Engineer_R0119994-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Cloud-Platform-Engineer_R0119994-1)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior DevOps (AWS) Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Lead-DevOps-Engineer_R0112881-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Lead-DevOps-Engineer_R0112881-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
 - **Tags:** engineering
 - **Status:** scraped
 
