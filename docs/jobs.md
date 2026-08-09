@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-07 |
+| Last Scraped | 2026-08-09 |
 
-## Current Job Listings (69)
+## Current Job Listings (68)
 
-_Generated: 2026-08-07T07:25:46.407Z_
+_Generated: 2026-08-09T07:05:13.643Z_
 
 ### Lead Data Engineer
 
@@ -406,14 +406,6 @@ _Generated: 2026-08-07T07:25:46.407Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
-- **Status:** scraped
-
-### Internal Comms, Group Campaigns (Fixed Term)
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Internal-Comms--Group-Campaigns--Fixed-Term-_R0118712](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Internal-Comms--Group-Campaigns--Fixed-Term-_R0118712)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** corporate affairs & marketing
 - **Status:** scraped
 
 ### Director, Application Cloud (Azure) Architect
