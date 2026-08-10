@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-09 |
+| Last Scraped | 2026-08-10 |
 
 ## Current Job Listings (68)
 
-_Generated: 2026-08-09T07:05:13.643Z_
+_Generated: 2026-08-10T07:52:40.141Z_
 
 ### Lead Data Engineer
 
@@ -88,6 +88,14 @@ _Generated: 2026-08-09T07:05:13.643Z_
 - **Tags:** engineering
 - **Status:** scraped
 
+### Senior Security Specialist
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Security-Specialist_R0122006](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Security-Specialist_R0122006)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
 ### CDSClear Web Quality Assurance Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1)
@@ -150,14 +158,6 @@ _Generated: 2026-08-09T07:05:13.643Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** people
-- **Status:** scraped
-
-### Senior Business Analyst
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Business-Analyst_R0121065-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Business-Analyst_R0121065-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** engineering
 - **Status:** scraped
 
 ### Junior Full Stack Developer - Issuer Services
