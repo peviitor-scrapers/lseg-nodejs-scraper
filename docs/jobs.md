@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-10 |
+| Last Scraped | 2026-08-11 |
 
-## Current Job Listings (68)
+## Current Job Listings (69)
 
-_Generated: 2026-08-10T07:52:40.141Z_
+_Generated: 2026-08-11T07:17:18.407Z_
 
 ### Lead Data Engineer
 
@@ -85,6 +85,22 @@ _Generated: 2026-08-10T07:52:40.141Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior FullStack Developer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-FullStack-Developer_R0115205-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-FullStack-Developer_R0115205-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Software Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer_R0119527-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer_R0119527-1)
+- **Work Mode:** hybrid
+- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -163,14 +179,6 @@ _Generated: 2026-08-10T07:52:40.141Z_
 ### Junior Full Stack Developer - Issuer Services
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Junior-Full-Stack-Developer---Issuer-Services_R0120002-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Junior-Full-Stack-Developer---Issuer-Services_R0120002-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Delivery Analyst
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Delivery-Analyst_R0121687-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Delivery-Analyst_R0121687-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
