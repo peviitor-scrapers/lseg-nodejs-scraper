@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-13 |
+| Last Scraped | 2026-08-14 |
 
-## Current Job Listings (71)
+## Current Job Listings (69)
 
-_Generated: 2026-08-13T07:43:26.281Z_
+_Generated: 2026-08-14T07:40:48.098Z_
 
 ### Software Development Manager Typescript/NodeJS
 
@@ -104,6 +104,14 @@ _Generated: 2026-08-13T07:43:26.281Z_
 - **Tags:** engineering
 - **Status:** scraped
 
+### Senior Software Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer_R0119527-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer_R0119527-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
 ### Quantitative Support Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Quantitative-Support-Engineer_R0122066-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Quantitative-Support-Engineer_R0122066-1)
@@ -123,22 +131,6 @@ _Generated: 2026-08-13T07:43:26.281Z_
 ### Architect, Office 365
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Architect--Office-365_R0121512-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Architect--Office-365_R0121512-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior FullStack Developer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-FullStack-Developer_R0115205-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-FullStack-Developer_R0115205-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Software Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer_R0119527-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer_R0119527-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
@@ -179,14 +171,6 @@ _Generated: 2026-08-13T07:43:26.281Z_
 ### CDSClear Senior QA Analyst
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Senior-QA-Analyst_R0121355-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Senior-QA-Analyst_R0121355-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Technical Delivery Manager
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Technical-Delivery-Manager_R0117892-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Technical-Delivery-Manager_R0117892-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
