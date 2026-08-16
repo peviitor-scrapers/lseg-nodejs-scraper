@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-14 |
+| Last Scraped | 2026-08-16 |
 
 ## Current Job Listings (69)
 
-_Generated: 2026-08-14T07:40:48.098Z_
+_Generated: 2026-08-16T06:50:24.605Z_
 
 ### Software Development Manager Typescript/NodeJS
 
@@ -96,11 +96,11 @@ _Generated: 2026-08-14T07:40:48.098Z_
 - **Tags:** people
 - **Status:** scraped
 
-### Senior Oracle Engineer
+### Senior Technical Delivery Manager
 
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Technical-Delivery-Manager_R0117892-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Technical-Delivery-Manager_R0117892-1)
 - **Work Mode:** hybrid
-- **Location:** Bucharest, România
+- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
