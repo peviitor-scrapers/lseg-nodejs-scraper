@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-18 |
+| Last Scraped | 2026-08-19 |
 
-## Current Job Listings (69)
+## Current Job Listings (68)
 
-_Generated: 2026-08-18T06:54:06.297Z_
+_Generated: 2026-08-19T06:54:03.283Z_
 
 ### Software Development Manager Typescript/NodeJS
 
@@ -475,14 +475,6 @@ _Generated: 2026-08-18T06:54:06.297Z_
 ### Senior Associate Frontend Web Developer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Associate-Frontend-Web-Developer_R0118817-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Associate-Frontend-Web-Developer_R0118817-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Associate Quality Engineering
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Associate-Quality-Engineering_R0118987-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Associate-Quality-Engineering_R0118987-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
