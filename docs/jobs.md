@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-20 |
+| Last Scraped | 2026-08-21 |
 
-## Current Job Listings (66)
+## Current Job Listings (67)
 
-_Generated: 2026-08-20T06:55:41.099Z_
+_Generated: 2026-08-21T06:56:39.773Z_
+
+### Senior Oracle Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
 
 ### Software Development Manager Typescript/NodeJS
 
@@ -96,6 +104,22 @@ _Generated: 2026-08-20T06:55:41.099Z_
 - **Tags:** people
 - **Status:** scraped
 
+### QP Engineer, Quality Engineering
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/QP-Engineer--Quality-Engineering_R0121297-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/QP-Engineer--Quality-Engineering_R0121297-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### QP Engineer, Quality Engineering
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/QP-Engineer--Quality-Engineering_R0121298-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/QP-Engineer--Quality-Engineering_R0121298-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
 ### Senior Risk Developer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Risk-Developer_R0114189-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Risk-Developer_R0114189-1)
@@ -155,14 +179,6 @@ _Generated: 2026-08-20T06:55:41.099Z_
 ### Lead Software Engineer (Java/C++/Rust)
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-Software-Engineer_R0121887-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-Software-Engineer_R0121887-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Technical Delivery Manager
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Technical-Delivery-Manager_R0117892-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Technical-Delivery-Manager_R0117892-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
@@ -301,14 +317,6 @@ _Generated: 2026-08-20T06:55:41.099Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Observability-Architect_R0116727-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Observability-Architect_R0116727-1)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior QA Manager
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-QA-Manager_R0117652-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-QA-Manager_R0117652-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
 - **Tags:** engineering
 - **Status:** scraped
 
