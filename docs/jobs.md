@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-21 |
+| Last Scraped | 2026-08-23 |
 
-## Current Job Listings (67)
+## Current Job Listings (64)
 
-_Generated: 2026-08-21T06:56:39.773Z_
+_Generated: 2026-08-23T06:51:22.812Z_
 
 ### Senior Oracle Engineer
 
@@ -408,14 +408,6 @@ _Generated: 2026-08-21T06:56:39.773Z_
 - **Tags:** risk
 - **Status:** scraped
 
-### Senior Cloud Platform Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Cloud-Platform-Engineer_R0119994-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Cloud-Platform-Engineer_R0119994-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Senior Software Engineer Regulatory News (AI/C\#/Java)
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer-Regulatory-News--AI-_R0120643-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer-Regulatory-News--AI-_R0120643-1)
@@ -464,14 +456,6 @@ _Generated: 2026-08-21T06:56:39.773Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Senior Data Engineer (Python/Snowflake)
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Data-Engineer_R0119386-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Data-Engineer_R0119386-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Technical Business Analyst & Project Manager
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Technical-Business-Analyst---Project-Manager_R0118414-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Technical-Business-Analyst---Project-Manager_R0118414-1)
@@ -499,14 +483,6 @@ _Generated: 2026-08-21T06:56:39.773Z_
 ### Senior Analyst, Transformation Delivery
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Analyst--Transformation-Delivery_R0118600-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Analyst--Transformation-Delivery_R0118600-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Lead AI Engineer, AI Productivity
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-AI-Engineer--AI-Productivity_R0117979-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-AI-Engineer--AI-Productivity_R0117979-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
