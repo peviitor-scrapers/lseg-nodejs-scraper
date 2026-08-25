@@ -10,25 +10,25 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-24 |
+| Last Scraped | 2026-08-25 |
 
-## Current Job Listings (64)
+## Current Job Listings (65)
 
-_Generated: 2026-08-24T07:09:52.323Z_
-
-### Senior Oracle Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
+_Generated: 2026-08-25T06:57:26.576Z_
 
 ### Software Development Manager Typescript/NodeJS
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Software-Development-Manager-Typescript-NodeJS_R0121810](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Software-Development-Manager-Typescript-NodeJS_R0121810)
 - **Work Mode:** hybrid
 - **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Oracle Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -102,6 +102,14 @@ _Generated: 2026-08-24T07:09:52.323Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** people
+- **Status:** scraped
+
+### Specialist Manager
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Specialist-Manager_R0121615-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Specialist-Manager_R0121615-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** operations
 - **Status:** scraped
 
 ### QP Engineer, Quality Engineering
