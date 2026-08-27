@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-26 |
+| Last Scraped | 2026-08-27 |
 
-## Current Job Listings (65)
+## Current Job Listings (62)
 
-_Generated: 2026-08-26T06:58:33.544Z_
+_Generated: 2026-08-27T17:32:07.539Z_
+
+### Senior Oracle Developer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
 
 ### Lead Software Engineer (Typescript/NodeJS)
 
@@ -29,14 +37,6 @@ _Generated: 2026-08-26T06:58:33.544Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer-C--_R0122742](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer-C--_R0122742)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Oracle Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -104,12 +104,20 @@ _Generated: 2026-08-26T06:58:33.544Z_
 - **Tags:** people
 - **Status:** scraped
 
-### Specialist Manager
+### Senior Manager - ESG Policy & Governance
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Specialist-Manager_R0121615-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Specialist-Manager_R0121615-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** operations
+- **Status:** scraped
+
+### Software Development Engineer in Test
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Development-Engineer-in-Test_R0122872](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Development-Engineer-in-Test_R0122872)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
 - **Status:** scraped
 
 ### QP Engineer, Quality Engineering
@@ -232,28 +240,12 @@ _Generated: 2026-08-26T06:58:33.544Z_
 - **Tags:** operations
 - **Status:** scraped
 
-### AI Validator
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/AI-Validator_R0121098](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/AI-Validator_R0121098)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** risk
-- **Status:** scraped
-
 ### Advisor, Employee Services – France Support
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** people
-- **Status:** scraped
-
-### Junior Full Stack Developer - Issuer Services
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Junior-Full-Stack-Developer---Issuer-Services_R0120002-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Junior-Full-Stack-Developer---Issuer-Services_R0120002-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
 - **Status:** scraped
 
 ### Lead NSO Developer
@@ -424,14 +416,6 @@ _Generated: 2026-08-26T06:58:33.544Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Junior Software Engineer Regulatory News
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Junior-Software-Engineer-Regulatory-News_R0119755-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Junior-Software-Engineer-Regulatory-News_R0119755-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Java/Spring AI Technical Architect
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Technical-Architect--AI-SDLC-_R0118189-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Technical-Architect--AI-SDLC-_R0118189-1)
@@ -499,14 +483,6 @@ _Generated: 2026-08-26T06:58:33.544Z_
 ### Senior Software Developer (Angular/Node.js)
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Developer--Typescript-Angular-_R0116344-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Developer--Typescript-Angular-_R0116344-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Manager Site Reliability & Dev Ops engineering – EMEA
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/SRE---Service-Management-lead_R0116639-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/SRE---Service-Management-lead_R0116639-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
