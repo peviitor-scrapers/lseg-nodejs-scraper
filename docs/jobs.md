@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-27 |
+| Last Scraped | 2026-08-28 |
 
-## Current Job Listings (62)
+## Current Job Listings (60)
 
-_Generated: 2026-08-27T17:32:07.539Z_
+_Generated: 2026-08-28T18:28:15.993Z_
 
 ### Senior Oracle Developer
 
@@ -376,14 +376,6 @@ _Generated: 2026-08-27T17:32:07.539Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Solutions Developer for Markets Technology LSEG
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Solutions-Developer-for-Markets-Technology-LSEG_R0120794-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Solutions-Developer-for-Markets-Technology-LSEG_R0120794-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Senior Specialist, Database SRE
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Specialist--Database-SRE_R0111117-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Specialist--Database-SRE_R0111117-1)
@@ -430,14 +422,6 @@ _Generated: 2026-08-27T17:32:07.539Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
-- **Status:** scraped
-
-### Product Manager, Platform, Open Directory, Workspace
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/GBR-London-10-Paternoster-Square/Product-Manager--Platform--Open-Directory--Workspace_R0115261-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/GBR-London-10-Paternoster-Square/Product-Manager--Platform--Open-Directory--Workspace_R0115261-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** data & analytics
 - **Status:** scraped
 
 ### Lead, Engineering Talent & Learning
