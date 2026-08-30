@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-08-29 |
+| Last Scraped | 2026-08-30 |
 
 ## Current Job Listings (60)
 
-_Generated: 2026-08-29T12:34:23.840Z_
+_Generated: 2026-08-30T11:42:13.396Z_
 
 ### Senior Oracle Developer
 
