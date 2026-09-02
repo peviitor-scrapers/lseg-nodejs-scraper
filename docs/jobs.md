@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-01 |
+| Last Scraped | 2026-09-02 |
 
-## Current Job Listings (58)
+## Current Job Listings (56)
 
-_Generated: 2026-09-01T11:27:51.933Z_
+_Generated: 2026-09-02T11:02:13.163Z_
 
 ### Senior Oracle Developer
 
@@ -86,6 +86,14 @@ _Generated: 2026-09-01T11:27:51.933Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** people
+- **Status:** scraped
+
+### ESG Policy and Governance Lead
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Content-Specialist_R0121964](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Content-Specialist_R0121964)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** operations
 - **Status:** scraped
 
 ### Senior Manager - ESG Policy & Governance
@@ -264,14 +272,6 @@ _Generated: 2026-09-01T11:27:51.933Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Content Specialist
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Content-Specialist_R0121964](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Content-Specialist_R0121964)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** operations
-- **Status:** scraped
-
 ### Senior Security Specialist – Penetration Testing
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Security-Specialist---Penetration-Testing_R0122063](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Security-Specialist---Penetration-Testing_R0122063)
@@ -291,14 +291,6 @@ _Generated: 2026-09-01T11:27:51.933Z_
 ### Principal Network Test Automation Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Principal-Network-Quality-Engineer_R0120721-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Principal-Network-Quality-Engineer_R0120721-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Solutions Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Observability-Architect_R0116727-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Observability-Architect_R0116727-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
@@ -437,14 +429,6 @@ _Generated: 2026-09-01T11:27:51.933Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Full-Stack-FinOps-Engineer_R0119143-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Full-Stack-FinOps-Engineer_R0119143-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Analyst, Transformation Delivery
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Analyst--Transformation-Delivery_R0118600-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Analyst--Transformation-Delivery_R0118600-1)
-- **Work Mode:** hybrid
-- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
