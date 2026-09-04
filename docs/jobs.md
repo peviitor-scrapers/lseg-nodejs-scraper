@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-03 |
+| Last Scraped | 2026-09-04 |
 
-## Current Job Listings (53)
+## Current Job Listings (52)
 
-_Generated: 2026-09-03T11:00:07.326Z_
+_Generated: 2026-09-04T11:02:17.514Z_
 
 ### Senior Software Engineer (Full stack JavaScript)
 
@@ -133,14 +133,6 @@ _Generated: 2026-09-03T11:00:07.326Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Development-Engineer-in-Test_R0122872](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Development-Engineer-in-Test_R0122872)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### QP Engineer, Quality Engineering
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/QP-Engineer--Quality-Engineering_R0121297-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/QP-Engineer--Quality-Engineering_R0121297-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
 - **Tags:** engineering
 - **Status:** scraped
 
