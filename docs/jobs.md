@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-05 |
+| Last Scraped | 2026-09-06 |
 
 ## Current Job Listings (52)
 
-_Generated: 2026-09-05T10:23:01.570Z_
+_Generated: 2026-09-06T10:41:51.041Z_
 
 ### Senior Software Engineer (Full stack JavaScript)
 
