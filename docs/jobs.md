@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-09 |
+| Last Scraped | 2026-09-10 |
 
-## Current Job Listings (52)
+## Current Job Listings (51)
 
-_Generated: 2026-09-09T11:05:38.936Z_
+_Generated: 2026-09-10T11:01:29.926Z_
 
 ### Senior Software Engineer (Full stack JavaScript)
 
@@ -246,14 +246,6 @@ _Generated: 2026-09-09T11:05:38.936Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** people
-- **Status:** scraped
-
-### Lead NSO Developer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-NSO-Developer_R0120469-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-NSO-Developer_R0120469-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
 - **Status:** scraped
 
 ### Senior Data Engineer
