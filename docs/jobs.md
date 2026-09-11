@@ -10,11 +10,19 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-10 |
+| Last Scraped | 2026-09-11 |
 
-## Current Job Listings (51)
+## Current Job Listings (48)
 
-_Generated: 2026-09-10T11:01:29.926Z_
+_Generated: 2026-09-11T11:00:14.755Z_
+
+### Senior Software Engineer (Java Full Stack)
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Software-Engineer--Java-_R0116644](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Software-Engineer--Java-_R0116644)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
 
 ### Senior Software Engineer (Full stack JavaScript)
 
@@ -88,20 +96,20 @@ _Generated: 2026-09-10T11:01:29.926Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Senior Software Engineer (Java Full Stack)
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Engineer--Java-_R0116644](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Engineer--Java-_R0116644)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Senior Software Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Engineer_R0120140](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Engineer_R0120140)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** people
+- **Status:** scraped
+
+### Senior Software Development Engineer in Test
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Development-Engineer-in-Test_R0122872](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Development-Engineer-in-Test_R0122872)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
 - **Status:** scraped
 
 ### Advisor - Employee Services
@@ -134,14 +142,6 @@ _Generated: 2026-09-10T11:01:29.926Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** operations
-- **Status:** scraped
-
-### Software Development Engineer in Test
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Development-Engineer-in-Test_R0122872](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Development-Engineer-in-Test_R0122872)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
 - **Status:** scraped
 
 ### Senior Risk Developer
@@ -368,35 +368,11 @@ _Generated: 2026-09-10T11:01:29.926Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Technical Business Analyst & Project Manager
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Technical-Business-Analyst---Project-Manager_R0118414-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Technical-Business-Analyst---Project-Manager_R0118414-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Associate Frontend Web Developer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Associate-Frontend-Web-Developer_R0118817-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Associate-Frontend-Web-Developer_R0118817-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Senior Full Stack FinOps Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Full-Stack-FinOps-Engineer_R0119143-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Full-Stack-FinOps-Engineer_R0119143-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Software Developer (Angular/Node.js)
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Developer--Typescript-Angular-_R0116344-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Developer--Typescript-Angular-_R0116344-1)
-- **Work Mode:** hybrid
-- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
