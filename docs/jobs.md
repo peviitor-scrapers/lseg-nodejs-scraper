@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-11 |
+| Last Scraped | 2026-09-12 |
 
-## Current Job Listings (48)
+## Current Job Listings (47)
 
-_Generated: 2026-09-11T11:00:14.755Z_
+_Generated: 2026-09-12T10:28:55.167Z_
 
 ### Senior Software Engineer (Java Full Stack)
 
@@ -126,14 +126,6 @@ _Generated: 2026-09-11T11:00:14.755Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
-- **Status:** scraped
-
-### ESG Policy and Governance Lead
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Content-Specialist_R0121964](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Content-Specialist_R0121964)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** operations
 - **Status:** scraped
 
 ### Senior Manager - ESG Policy & Governance
