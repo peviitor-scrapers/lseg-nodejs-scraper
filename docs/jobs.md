@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-13 |
+| Last Scraped | 2026-09-14 |
 
-## Current Job Listings (47)
+## Current Job Listings (48)
 
-_Generated: 2026-09-13T11:32:00.080Z_
+_Generated: 2026-09-14T12:25:26.399Z_
 
 ### Senior Software Engineer (Java Full Stack)
 
@@ -102,6 +102,14 @@ _Generated: 2026-09-13T11:32:00.080Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** people
+- **Status:** scraped
+
+### Technical Delivery Manager
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Technical-Delivery-Manager_R0122375](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Technical-Delivery-Manager_R0122375)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
 - **Status:** scraped
 
 ### Senior Software Development Engineer in Test
