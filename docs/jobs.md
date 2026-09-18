@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-17 |
+| Last Scraped | 2026-09-18 |
 
-## Current Job Listings (48)
+## Current Job Listings (49)
 
-_Generated: 2026-09-17T11:24:45.596Z_
+_Generated: 2026-09-18T10:58:05.033Z_
 
 ### Senior Software Engineer (Java Full Stack)
 
@@ -101,6 +101,14 @@ _Generated: 2026-09-17T11:24:45.596Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Engineer_R0120140](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Engineer_R0120140)
 - **Work Mode:** hybrid
 - **Location:** România
+- **Tags:** people
+- **Status:** scraped
+
+### Talent Research & Sourcing Specialist
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Talent-Research---Sourcing-Specialist_R0123439](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Talent-Research---Sourcing-Specialist_R0123439)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
 - **Tags:** people
 - **Status:** scraped
 
