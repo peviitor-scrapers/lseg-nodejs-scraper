@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-21 |
+| Last Scraped | 2026-09-22 |
 
-## Current Job Listings (50)
+## Current Job Listings (51)
 
-_Generated: 2026-09-21T12:32:16.479Z_
+_Generated: 2026-09-22T11:20:38.616Z_
 
 ### Senior Software Engineer (Java Full Stack)
 
@@ -94,6 +94,14 @@ _Generated: 2026-09-21T12:32:16.479Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** people
+- **Status:** scraped
+
+### Lead, Engineering Talent & Learning
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Lead--Engineering-Talent---Learning_R0119951-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Lead--Engineering-Talent---Learning_R0119951-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
 - **Status:** scraped
 
 ### Senior Security Specialist
