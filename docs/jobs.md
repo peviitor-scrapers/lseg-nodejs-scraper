@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-22 |
+| Last Scraped | 2026-09-23 |
 
 ## Current Job Listings (51)
 
-_Generated: 2026-09-22T11:20:38.616Z_
+_Generated: 2026-09-23T11:15:10.279Z_
 
 ### Senior Software Engineer (Java Full Stack)
 
@@ -96,6 +96,14 @@ _Generated: 2026-09-22T11:20:38.616Z_
 - **Tags:** people
 - **Status:** scraped
 
+### Lead Observability Platform Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-Observability-Platform-Engineer_R0122351-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-Observability-Platform-Engineer_R0122351-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
 ### Lead, Engineering Talent & Learning
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Lead--Engineering-Talent---Learning_R0119951-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Lead--Engineering-Talent---Learning_R0119951-1)
@@ -123,14 +131,6 @@ _Generated: 2026-09-22T11:20:38.616Z_
 ### Lead Devops Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Lead-Devops-Engineer_R0115046-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Lead-Devops-Engineer_R0115046-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Technical Delivery Manager
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Technical-Delivery-Manager_R0117892-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Technical-Delivery-Manager_R0117892-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
