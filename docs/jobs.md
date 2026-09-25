@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-24 |
+| Last Scraped | 2026-09-25 |
 
-## Current Job Listings (50)
+## Current Job Listings (43)
 
-_Generated: 2026-09-24T11:29:50.647Z_
+_Generated: 2026-09-25T11:35:56.209Z_
 
 ### Senior Software Engineer C++
 
@@ -40,14 +40,6 @@ _Generated: 2026-09-24T11:29:50.647Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Lead Software Engineer (Typescript/NodeJS)
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Software-Development-Manager-Typescript-NodeJS_R0121810](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Software-Development-Manager-Typescript-NodeJS_R0121810)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Lead Data Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Lead-Data-Engineer_R0122417-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Lead-Data-Engineer_R0122417-1)
@@ -64,14 +56,6 @@ _Generated: 2026-09-24T11:29:50.647Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Lead Software Engineer (C++ )
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer-C--_R0118370](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer-C--_R0118370)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Senior Software Developer (Java, network programming)
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Software-Developer--Java-_R0119138](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Software-Developer--Java-_R0119138)
@@ -83,22 +67,6 @@ _Generated: 2026-09-24T11:29:50.647Z_
 ### Senior Software Developer (DotNet)
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Developer--DotNet-_R0119140](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Developer--DotNet-_R0119140)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Software Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Engineer_R0120140](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Engineer_R0120140)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** people
-- **Status:** scraped
-
-### Lead Observability Platform Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-Observability-Platform-Engineer_R0122351-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-Observability-Platform-Engineer_R0122351-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
@@ -216,28 +184,12 @@ _Generated: 2026-09-24T11:29:50.647Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Senior Test Automation Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Test-Automation-Engineer_R0121682-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Test-Automation-Engineer_R0121682-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Senior Manager - ESG Policy & Governance
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Specialist-Manager_R0121615-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Specialist-Manager_R0121615-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** operations
-- **Status:** scraped
-
-### CDSClear Lead Java Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Lead-Java-Engineer_R0121319-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Lead-Java-Engineer_R0121319-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
 - **Status:** scraped
 
 ### Lead Software Engineer (Java/C++/Rust)
@@ -395,14 +347,6 @@ _Generated: 2026-09-24T11:29:50.647Z_
 ### Observability & Event Intelligence - Senior Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Observability---Event-Intelligence---Senior-Engineer_R0116417-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Observability---Event-Intelligence---Senior-Engineer_R0116417-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### TradeAgent Senior Java Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/TradeAgent-Senior-Java-Engineer_R0116583-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/TradeAgent-Senior-Java-Engineer_R0116583-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
