@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-09-28 |
+| Last Scraped | 2026-09-29 |
 
-## Current Job Listings (43)
+## Current Job Listings (40)
 
-_Generated: 2026-09-28T13:31:47.737Z_
+_Generated: 2026-09-29T12:33:16.272Z_
 
 ### Senior Software Engineer C++
 
@@ -37,22 +37,6 @@ _Generated: 2026-09-28T13:31:47.737Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Lead Data Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Lead-Data-Engineer_R0122417-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Lead-Data-Engineer_R0122417-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Lead Data Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Lead-Data-Engineer_R0114058-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Lead-Data-Engineer_R0114058-1)
-- **Work Mode:** hybrid
-- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -165,14 +149,6 @@ _Generated: 2026-09-28T13:31:47.737Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Quantitative-Support-Engineer_R0122066-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Quantitative-Support-Engineer_R0122066-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Technical Delivery Manager
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Technical-Delivery-Manager_R0122375](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Technical-Delivery-Manager_R0122375)
-- **Work Mode:** hybrid
-- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
