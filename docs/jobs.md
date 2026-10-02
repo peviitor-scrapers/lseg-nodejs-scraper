@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-01 |
+| Last Scraped | 2026-10-02 |
 
-## Current Job Listings (42)
+## Current Job Listings (40)
 
-_Generated: 2026-10-01T12:53:57.543Z_
+_Generated: 2026-10-02T12:16:40.295Z_
 
 ### Senior Software Engineer C++
 
@@ -54,6 +54,14 @@ _Generated: 2026-10-01T12:53:57.543Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
+- **Status:** scraped
+
+### Lead Research Analyst with Lithuanian or Latvian language
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Lead-Research-Analyst-with-Lithuanian-or-Latvian-language_R0122406-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Lead-Research-Analyst-with-Lithuanian-or-Latvian-language_R0122406-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** risk intelligence
 - **Status:** scraped
 
 ### Lead DevOps Engineer
@@ -208,14 +216,6 @@ _Generated: 2026-10-01T12:53:57.543Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Senior Manager, Employment Tax
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--Employment-Tax_R0120910](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--Employment-Tax_R0120910)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** operations
-- **Status:** scraped
-
 ### Advisor, Employee Services – France Support
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1)
@@ -237,14 +237,6 @@ _Generated: 2026-10-01T12:53:57.543Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--AI-Productivity_R0117854-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--AI-Productivity_R0117854-1)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Manager, Site Reliability Engineering
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Lead-Site-Reliability-Engineer_R0121183-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Lead-Site-Reliability-Engineer_R0121183-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -315,14 +307,6 @@ _Generated: 2026-10-01T12:53:57.543Z_
 ### Java/Spring AI Technical Architect
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Technical-Architect--AI-SDLC-_R0118189-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Technical-Architect--AI-SDLC-_R0118189-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Director, Application Cloud (Azure) Architect
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Director--Application-Cloud--Azure--Architect_R0114940-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Director--Application-Cloud--Azure--Architect_R0114940-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
