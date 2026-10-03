@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-02 |
+| Last Scraped | 2026-10-03 |
 
 ## Current Job Listings (40)
 
-_Generated: 2026-10-02T12:16:40.295Z_
+_Generated: 2026-10-03T11:27:09.464Z_
 
 ### Senior Software Engineer C++
 
