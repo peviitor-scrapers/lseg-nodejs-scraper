@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-04 |
+| Last Scraped | 2026-10-05 |
 
-## Current Job Listings (40)
+## Current Job Listings (39)
 
-_Generated: 2026-10-04T12:08:32.379Z_
+_Generated: 2026-10-05T14:14:44.753Z_
 
 ### Senior Software Engineer C++
 
@@ -67,14 +67,6 @@ _Generated: 2026-10-04T12:08:32.379Z_
 ### Lead DevOps Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-DevOps-Engineer_R0123233](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-DevOps-Engineer_R0123233)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Technical Delivery Manager
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Technical-Delivery-Manager_R0117892-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Technical-Delivery-Manager_R0117892-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
