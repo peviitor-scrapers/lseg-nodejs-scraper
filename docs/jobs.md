@@ -14,7 +14,7 @@
 
 ## Current Job Listings (39)
 
-_Generated: 2026-10-05T14:14:44.753Z_
+_Generated: 2026-10-05T15:47:37.397Z_
 
 ### Senior Software Engineer C++
 
