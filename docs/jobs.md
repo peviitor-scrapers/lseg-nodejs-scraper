@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-06 |
+| Last Scraped | 2026-10-07 |
 
 ## Current Job Listings (43)
 
-_Generated: 2026-10-06T13:09:17.191Z_
+_Generated: 2026-10-07T13:04:24.663Z_
 
 ### Lead Data Engineer
 
@@ -72,6 +72,14 @@ _Generated: 2026-10-06T13:09:17.191Z_
 - **Tags:** engineering
 - **Status:** scraped
 
+###  Senior Linux DevOps Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/PHL-Taguig-City-CitiPlaza/XMLNAME--Senior-Linux-DevOps-Engineer_R0123415](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/PHL-Taguig-City-CitiPlaza/XMLNAME--Senior-Linux-DevOps-Engineer_R0123415)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** data & analytics
+- **Status:** scraped
+
 ### Assistant Manager, Company Secretariat
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Assistant-Manager--Company-Secretariat_R0123954](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Assistant-Manager--Company-Secretariat_R0123954)
@@ -86,14 +94,6 @@ _Generated: 2026-10-06T13:09:17.191Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
-- **Status:** scraped
-
-### Lead Research Analyst with Lithuanian or Latvian language
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Lead-Research-Analyst-with-Lithuanian-or-Latvian-language_R0122406-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Lead-Research-Analyst-with-Lithuanian-or-Latvian-language_R0122406-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** risk intelligence
 - **Status:** scraped
 
 ### Lead DevOps Engineer
@@ -232,12 +232,11 @@ _Generated: 2026-10-06T13:09:17.191Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Architect, Office 365
+### undefined
 
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Architect--Office-365_R0121512-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Architect--Office-365_R0121512-1)
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers](https://lseg.wd3.myworkdayjobs.com/en-US/Careers)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** engineering
 - **Status:** scraped
 
 ### Advisor, Employee Services – France Support
