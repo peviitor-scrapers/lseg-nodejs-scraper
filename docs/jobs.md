@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-07 |
+| Last Scraped | 2026-10-08 |
 
-## Current Job Listings (43)
+## Current Job Listings (40)
 
-_Generated: 2026-10-07T13:04:24.663Z_
+_Generated: 2026-10-08T13:11:32.422Z_
 
 ### Lead Data Engineer
 
@@ -53,22 +53,6 @@ _Generated: 2026-10-07T13:04:24.663Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Software Developer (Java, network programming)
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Software-Developer--Java-_R0119138](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Software-Developer--Java-_R0119138)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Software Developer (DotNet)
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Developer--DotNet-_R0119140](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Developer--DotNet-_R0119140)
-- **Work Mode:** hybrid
-- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -230,13 +214,6 @@ _Generated: 2026-10-07T13:04:24.663Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
-- **Status:** scraped
-
-### undefined
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers](https://lseg.wd3.myworkdayjobs.com/en-US/Careers)
-- **Work Mode:** hybrid
-- **Location:** România
 - **Status:** scraped
 
 ### Advisor, Employee Services – France Support
