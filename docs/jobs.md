@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-08 |
+| Last Scraped | 2026-10-09 |
 
-## Current Job Listings (40)
+## Current Job Listings (41)
 
-_Generated: 2026-10-08T13:11:32.422Z_
+_Generated: 2026-10-09T12:58:16.661Z_
 
 ### Lead Data Engineer
 
@@ -54,6 +54,14 @@ _Generated: 2026-10-08T13:11:32.422Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
+- **Status:** scraped
+
+### Assistant Manager, Technical Implementation
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Assistant-Manager--Technical-Implementation_R0122513](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Assistant-Manager--Technical-Implementation_R0122513)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** operations
 - **Status:** scraped
 
 ###  Senior Linux DevOps Engineer
