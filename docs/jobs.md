@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-09 |
+| Last Scraped | 2026-10-10 |
 
-## Current Job Listings (41)
+## Current Job Listings (42)
 
-_Generated: 2026-10-09T12:58:16.661Z_
+_Generated: 2026-10-10T12:15:53.896Z_
 
 ### Lead Data Engineer
 
@@ -51,6 +51,14 @@ _Generated: 2026-10-09T12:58:16.661Z_
 ### Senior Oracle Developer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Software Development Manager
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Development-Manager_R0123938](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Development-Manager_R0123938)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
