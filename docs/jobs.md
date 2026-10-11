@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-10 |
+| Last Scraped | 2026-10-11 |
 
-## Current Job Listings (42)
+## Current Job Listings (40)
 
-_Generated: 2026-10-10T12:15:53.896Z_
+_Generated: 2026-10-11T12:31:16.350Z_
 
 ### Lead Data Engineer
 
@@ -120,14 +120,6 @@ _Generated: 2026-10-10T12:15:53.896Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Advisor - Employee Services
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Advisor---Employee-Services_R0120961-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Advisor---Employee-Services_R0120961-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** people
-- **Status:** scraped
-
 ### Lead Devops Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Lead-Devops-Engineer_R0115046-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Lead-Devops-Engineer_R0115046-1)
@@ -230,14 +222,6 @@ _Generated: 2026-10-10T12:15:53.896Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
-- **Status:** scraped
-
-### Advisor, Employee Services – France Support
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Advisor--Employee-Services---France-Support_R0120270-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** people
 - **Status:** scraped
 
 ### Senior Data Engineer
