@@ -10,19 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-15 |
+| Last Scraped | 2026-10-16 |
 
-## Current Job Listings (47)
+## Current Job Listings (46)
 
-_Generated: 2026-10-15T11:13:23.511Z_
-
-### Lead Data Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Lead-Data-Engineer_R0122417-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Lead-Data-Engineer_R0122417-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
+_Generated: 2026-10-16T11:08:02.105Z_
 
 ### Senior Software Engineer C++
 
@@ -45,6 +37,14 @@ _Generated: 2026-10-15T11:13:23.511Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Development Manager, Technology
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Development-Manager--Technology_R0123803-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Development-Manager--Technology_R0123803-1)
+- **Work Mode:** hybrid
+- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -278,14 +278,6 @@ _Generated: 2026-10-15T11:13:23.511Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
-- **Status:** scraped
-
-### Senior Manager - ESG Policy & Governance
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Specialist-Manager_R0121615-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Specialist-Manager_R0121615-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** operations
 - **Status:** scraped
 
 ### Lead Software Engineer (Java/C++/Rust)
