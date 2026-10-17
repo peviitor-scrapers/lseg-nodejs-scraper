@@ -10,11 +10,27 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-16 |
+| Last Scraped | 2026-10-17 |
 
-## Current Job Listings (46)
+## Current Job Listings (48)
 
-_Generated: 2026-10-16T11:08:02.105Z_
+_Generated: 2026-10-17T10:27:19.720Z_
+
+### Senior Software Developer (DotNet)
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Developer--DotNet-_R0119140](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Developer--DotNet-_R0119140)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Software Developer (Java, network programming)
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Software-Developer--Java-_R0119138](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Software-Developer--Java-_R0119138)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
 
 ### Senior Software Engineer C++
 
