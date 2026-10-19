@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-18 |
+| Last Scraped | 2026-10-19 |
 
 ## Current Job Listings (48)
 
-_Generated: 2026-10-18T10:46:09.468Z_
+_Generated: 2026-10-19T12:46:54.573Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -40,20 +40,20 @@ _Generated: 2026-10-18T10:46:09.468Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Senior Software Engineer (Java Full Stack)
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Software-Engineer--Java-_R0116644](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Software-Engineer--Java-_R0116644)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
 ### Senior Oracle Developer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
+- **Status:** scraped
+
+### Senior Manager - Technology Risk
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Manager---Technology-Risk_R0123388](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Manager---Technology-Risk_R0123388)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** risk
 - **Status:** scraped
 
 ### Senior Development Manager, Technology
