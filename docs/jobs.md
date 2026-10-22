@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-21 |
+| Last Scraped | 2026-10-22 |
 
-## Current Job Listings (49)
+## Current Job Listings (50)
 
-_Generated: 2026-10-21T11:32:42.152Z_
+_Generated: 2026-10-22T11:32:59.419Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -43,6 +43,22 @@ _Generated: 2026-10-21T11:32:42.152Z_
 ### Senior Oracle Developer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Test Automation Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Test-Automation-Engineer_R0121682-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Test-Automation-Engineer_R0121682-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior QA Manager
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-QA-Manager_R0117652-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-QA-Manager_R0117652-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
@@ -293,14 +309,6 @@ _Generated: 2026-10-21T11:32:42.152Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Quantitative-Support-Engineer_R0122066-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Quantitative-Support-Engineer_R0122066-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Software Development Engineer in Test
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Development-Engineer-in-Test_R0122872](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Development-Engineer-in-Test_R0122872)
-- **Work Mode:** hybrid
-- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
