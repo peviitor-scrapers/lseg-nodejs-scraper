@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-22 |
+| Last Scraped | 2026-10-23 |
 
 ## Current Job Listings (50)
 
-_Generated: 2026-10-22T11:32:59.419Z_
+_Generated: 2026-10-23T11:22:21.547Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -48,19 +48,19 @@ _Generated: 2026-10-22T11:32:59.419Z_
 - **Tags:** engineering
 - **Status:** scraped
 
+### Advisor - Employee Services (English/Arabic Speaker)
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Advisor---Employee-Services--English-Arabic-Speaker-_R0124579](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Advisor---Employee-Services--English-Arabic-Speaker-_R0124579)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** people
+- **Status:** scraped
+
 ### Senior Test Automation Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Test-Automation-Engineer_R0121682-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Test-Automation-Engineer_R0121682-1)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior QA Manager
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-QA-Manager_R0117652-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-QA-Manager_R0117652-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
 - **Tags:** engineering
 - **Status:** scraped
 
