@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
 ## Current Job Listings (51)
 
-_Generated: 2026-10-27T11:55:37.388Z_
+_Generated: 2026-10-28T12:32:30.576Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -46,6 +46,14 @@ _Generated: 2026-10-27T11:55:37.388Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
+- **Status:** scraped
+
+### Director - Software Asset Management
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Director---Software-Asset-Management_R0123971](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Director---Software-Asset-Management_R0123971)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** finance
 - **Status:** scraped
 
 ### Service Design & Transition Lead
@@ -163,14 +171,6 @@ _Generated: 2026-10-27T11:55:37.388Z_
 ### Senior Frontend Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Frontend-Engineer_R0123242](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Frontend-Engineer_R0123242)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Frontend Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Frontend-Engineer_R0123248](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Frontend-Engineer_R0123248)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
