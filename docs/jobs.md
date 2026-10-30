@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-29 |
+| Last Scraped | 2026-10-30 |
 
-## Current Job Listings (51)
+## Current Job Listings (50)
 
-_Generated: 2026-10-29T12:43:13.527Z_
+_Generated: 2026-10-30T12:34:50.034Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -302,14 +302,6 @@ _Generated: 2026-10-29T12:43:13.527Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** markets
-- **Status:** scraped
-
-### Talent Research & Sourcing Specialist
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Talent-Research---Sourcing-Specialist_R0123439](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Talent-Research---Sourcing-Specialist_R0123439)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** people
 - **Status:** scraped
 
 ### Financial Engineering Analyst
