@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-10-30 |
+| Last Scraped | 2026-10-31 |
 
-## Current Job Listings (50)
+## Current Job Listings (49)
 
-_Generated: 2026-10-30T12:34:50.034Z_
+_Generated: 2026-10-31T12:00:30.131Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -214,14 +214,6 @@ _Generated: 2026-10-30T12:34:50.034Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** company secretariat
-- **Status:** scraped
-
-### Power Platform & AI Solutions Developer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Power-Platform---AI-Solutions-Developer_R0123970](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Power-Platform---AI-Solutions-Developer_R0123970)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
 - **Status:** scraped
 
 ### Lead DevOps Engineer
