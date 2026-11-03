@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
-## Current Job Listings (49)
+## Current Job Listings (52)
 
-_Generated: 2026-11-02T15:23:20.917Z_
+_Generated: 2026-11-03T13:57:11.869Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -45,6 +45,30 @@ _Generated: 2026-11-02T15:23:20.917Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### AI Product Manager, Workflows
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/ROU-Bucharest-Iuliu-Maniu-Boulevard/AI-Product-Manager--Workflows_R0124388](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/ROU-Bucharest-Iuliu-Maniu-Boulevard/AI-Product-Manager--Workflows_R0124388)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** data & analytics
+- **Status:** scraped
+
+### Product Lead - News, Workflows
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/GBR-London-5-Canada-Square/Product-Lead---News--Workflows_R0123195](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/GBR-London-5-Canada-Square/Product-Lead---News--Workflows_R0123195)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** data & analytics
+- **Status:** scraped
+
+### Technical Delivery Manager
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Technical-Delivery-Manager_R0122375](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Technical-Delivery-Manager_R0122375)
+- **Work Mode:** hybrid
+- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
