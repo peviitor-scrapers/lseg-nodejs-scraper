@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-03 |
+| Last Scraped | 2026-11-04 |
 
-## Current Job Listings (52)
+## Current Job Listings (51)
 
-_Generated: 2026-11-03T13:57:11.869Z_
+_Generated: 2026-11-04T14:11:11.287Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -371,14 +371,6 @@ _Generated: 2026-11-03T13:57:11.869Z_
 ### Senior Vulnerability Management Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Vulnerability-Management-Engineer_R0122059](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Vulnerability-Management-Engineer_R0122059)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Frontend Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/ROU-Bucharest-Iuliu-Maniu-Boulevard/Senior-Frontend-Engineer_R0117021-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/ROU-Bucharest-Iuliu-Maniu-Boulevard/Senior-Frontend-Engineer_R0117021-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
