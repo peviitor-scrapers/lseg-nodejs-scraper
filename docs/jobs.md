@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
-## Current Job Listings (52)
+## Current Job Listings (51)
 
-_Generated: 2026-11-05T14:26:44.456Z_
+_Generated: 2026-11-06T14:02:27.513Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -150,14 +150,6 @@ _Generated: 2026-11-05T14:26:44.456Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
-- **Status:** scraped
-
-### Senior FIX Onboarding Analyst
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Assistant-Manager--Technical-Implementation_R0122513](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Assistant-Manager--Technical-Implementation_R0122513)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** operations
 - **Status:** scraped
 
 ### Observability Platform Engineer
