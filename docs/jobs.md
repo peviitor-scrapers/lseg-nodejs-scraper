@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-09 |
+| Last Scraped | 2026-11-10 |
 
-## Current Job Listings (50)
+## Current Job Listings (49)
 
-_Generated: 2026-11-09T15:50:06.642Z_
+_Generated: 2026-11-10T14:40:35.620Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -147,14 +147,6 @@ _Generated: 2026-11-09T15:50:06.642Z_
 ### Observability Platform Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Observability-Platform-Engineer_R0121184-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Observability-Platform-Engineer_R0121184-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### DevOps Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/DevOps-Engineer_R0121181-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/DevOps-Engineer_R0121181-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
