@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-10 |
+| Last Scraped | 2026-11-11 |
 
 ## Current Job Listings (49)
 
-_Generated: 2026-11-10T14:40:35.620Z_
+_Generated: 2026-11-11T13:56:07.154Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -48,6 +48,22 @@ _Generated: 2026-11-10T14:40:35.620Z_
 - **Tags:** engineering
 - **Status:** scraped
 
+### Senior Quality Assurance Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Quality-Assurance-Engineer_R0124053](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Quality-Assurance-Engineer_R0124053)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Quality Assurance Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Quality-Assurance-Engineer_R0124368](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Quality-Assurance-Engineer_R0124368)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
 ### Senior PMO Lead
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Senior-Delivery-Manager-_R0123626](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Senior-Delivery-Manager-_R0123626)
@@ -78,14 +94,6 @@ _Generated: 2026-11-10T14:40:35.620Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** finance
-- **Status:** scraped
-
-### Service Design & Transition Lead
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Service-Design---Transition-Lead_R0124246](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Service-Design---Transition-Lead_R0124246)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
 - **Status:** scraped
 
 ### Advisor - Employee Services (English/Arabic Speaker)
@@ -227,14 +235,6 @@ _Generated: 2026-11-10T14:40:35.620Z_
 ### Lead DevOps Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-DevOps-Engineer_R0123233](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-DevOps-Engineer_R0123233)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Lead, Engineering Talent & Learning
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Lead--Engineering-Talent---Learning_R0119951-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Lead--Engineering-Talent---Learning_R0119951-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
