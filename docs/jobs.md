@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (48)
+## Current Job Listings (49)
 
-_Generated: 2026-11-15T13:46:53.973Z_
+_Generated: 2026-11-16T15:26:45.706Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -45,6 +45,30 @@ _Generated: 2026-11-15T13:46:53.973Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Power Platform Developer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Power-Platform---AI-Solutions-Developer_R0123970](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Power-Platform---AI-Solutions-Developer_R0123970)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Vulnerability Management Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Vulnerability-Management-Engineer_R0122059](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Vulnerability-Management-Engineer_R0122059)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Security Specialist – Penetration Testing
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Security-Specialist---Penetration-Testing_R0122063](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Security-Specialist---Penetration-Testing_R0122063)
+- **Work Mode:** hybrid
+- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -176,12 +200,11 @@ _Generated: 2026-11-15T13:46:53.973Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Senior Frontend Engineer
+### undefined
 
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Frontend-Engineer_R0123242](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Frontend-Engineer_R0123242)
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers](https://lseg.wd3.myworkdayjobs.com/en-US/Careers)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** engineering
 - **Status:** scraped
 
 ### Lead Software Engineer
@@ -331,22 +354,6 @@ _Generated: 2026-11-15T13:46:53.973Z_
 ### Senior Manager, AI Productivity
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--AI-Productivity_R0117854-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Manager--AI-Productivity_R0117854-1)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Security Specialist – Penetration Testing
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Security-Specialist---Penetration-Testing_R0122063](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Security-Specialist---Penetration-Testing_R0122063)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Vulnerability Management Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Vulnerability-Management-Engineer_R0122059](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/United-Kingdom---Home-Based/Senior-Vulnerability-Management-Engineer_R0122059)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
