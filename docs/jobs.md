@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
 ## Current Job Listings (49)
 
-_Generated: 2026-11-16T15:26:45.706Z_
+_Generated: 2026-11-17T15:48:15.835Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -54,6 +54,14 @@ _Generated: 2026-11-16T15:26:45.706Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
+- **Status:** scraped
+
+### Director Country People Partner / Business People Partner
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Director-Country-People-Partner---Business-People-Partner_R0124883](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Director-Country-People-Partner---Business-People-Partner_R0124883)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** people
 - **Status:** scraped
 
 ### Senior Vulnerability Management Engineer
@@ -198,13 +206,6 @@ _Generated: 2026-11-16T15:26:45.706Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
-- **Status:** scraped
-
-### undefined
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers](https://lseg.wd3.myworkdayjobs.com/en-US/Careers)
-- **Work Mode:** hybrid
-- **Location:** România
 - **Status:** scraped
 
 ### Lead Software Engineer
