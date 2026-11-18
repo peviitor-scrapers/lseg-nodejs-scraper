@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-17 |
+| Last Scraped | 2026-11-18 |
 
-## Current Job Listings (49)
+## Current Job Listings (50)
 
-_Generated: 2026-11-17T15:48:15.835Z_
+_Generated: 2026-11-18T15:27:55.859Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -45,6 +45,14 @@ _Generated: 2026-11-17T15:48:15.835Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Solution Engineer
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Solution-Engineer_R0125090](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Solution-Engineer_R0125090)
+- **Work Mode:** hybrid
+- **Location:** România
 - **Tags:** engineering
 - **Status:** scraped
 
