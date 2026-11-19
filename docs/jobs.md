@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
-## Current Job Listings (50)
+## Current Job Listings (48)
 
-_Generated: 2026-11-18T15:27:55.859Z_
+_Generated: 2026-11-19T15:33:55.320Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -48,12 +48,12 @@ _Generated: 2026-11-18T15:27:55.859Z_
 - **Tags:** engineering
 - **Status:** scraped
 
-### Senior Solution Engineer
+### Advisor - Employee Services (English/Arabic Speaker)
 
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Solution-Engineer_R0125090](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Solution-Engineer_R0125090)
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Advisor---Employee-Services--English-Arabic-Speaker-_R0124579](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Advisor---Employee-Services--English-Arabic-Speaker-_R0124579)
 - **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
+- **Location:** Bucharest, România
+- **Tags:** people
 - **Status:** scraped
 
 ### Power Platform Developer
@@ -98,14 +98,6 @@ _Generated: 2026-11-18T15:27:55.859Z_
 
 ### Senior Quality Assurance Engineer
 
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Quality-Assurance-Engineer_R0124053](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Cluj---21-Decembrie-1989-Boulevard/Senior-Quality-Assurance-Engineer_R0124053)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Quality Assurance Engineer
-
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Quality-Assurance-Engineer_R0124368](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Quality-Assurance-Engineer_R0124368)
 - **Work Mode:** hybrid
 - **Location:** România
@@ -142,14 +134,6 @@ _Generated: 2026-11-18T15:27:55.859Z_
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** finance
-- **Status:** scraped
-
-### Advisor - Employee Services (English/Arabic Speaker)
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Advisor---Employee-Services--English-Arabic-Speaker-_R0124579](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Advisor---Employee-Services--English-Arabic-Speaker-_R0124579)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
-- **Tags:** people
 - **Status:** scraped
 
 ### Senior Test Automation Engineer
