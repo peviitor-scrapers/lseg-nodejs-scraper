@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
-## Current Job Listings (48)
+## Current Job Listings (45)
 
-_Generated: 2026-11-19T15:33:55.320Z_
+_Generated: 2026-11-20T15:12:48.705Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -46,6 +46,14 @@ _Generated: 2026-11-19T15:33:55.320Z_
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
+- **Status:** scraped
+
+### AI Validator
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/AI-Validator_R0123210](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/AI-Validator_R0123210)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** risk
 - **Status:** scraped
 
 ### Advisor - Employee Services (English/Arabic Speaker)
@@ -91,22 +99,6 @@ _Generated: 2026-11-19T15:33:55.320Z_
 ### Senior Analyst, Cyber Strategy
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Analyst--Cyber-Strategy_R0123819](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Analyst--Cyber-Strategy_R0123819)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Quality Assurance Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Quality-Assurance-Engineer_R0124368](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Quality-Assurance-Engineer_R0124368)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior PMO Lead
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Senior-Delivery-Manager-_R0123626](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Senior-Delivery-Manager-_R0123626)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
@@ -205,14 +197,6 @@ _Generated: 2026-11-19T15:33:55.320Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-Software-Engineer_R0123232](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-Software-Engineer_R0123232)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Cyber Threat Intelligence Analyst
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Cyber-Threat-Intelligence-Analyst_R0124104](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Cyber-Threat-Intelligence-Analyst_R0124104)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
 - **Tags:** engineering
 - **Status:** scraped
 
@@ -373,14 +357,6 @@ _Generated: 2026-11-19T15:33:55.320Z_
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer-Regulatory-News--AI-_R0120643-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Software-Engineer-Regulatory-News--AI-_R0120643-1)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Java/Spring AI Technical Architect
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Technical-Architect--AI-SDLC-_R0118189-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Technical-Architect--AI-SDLC-_R0118189-1)
-- **Work Mode:** hybrid
-- **Location:** Bucharest, România
 - **Tags:** engineering
 - **Status:** scraped
 
