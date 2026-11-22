@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-21 |
+| Last Scraped | 2026-11-22 |
 
 ## Current Job Listings (45)
 
-_Generated: 2026-11-21T14:28:35.169Z_
+_Generated: 2026-11-22T14:24:18.934Z_
 
 ### Senior Software Developer (DotNet)
 
