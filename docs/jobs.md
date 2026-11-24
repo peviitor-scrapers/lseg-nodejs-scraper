@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
 ## Current Job Listings (47)
 
-_Generated: 2026-11-23T17:50:20.751Z_
+_Generated: 2026-11-24T17:23:24.341Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -43,6 +43,14 @@ _Generated: 2026-11-23T17:50:20.751Z_
 ### Senior Oracle Developer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Software Engineer (Full-Stack Angular)
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Engineer--Full-Stack-Angular-_R0125126](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Software-Engineer--Full-Stack-Angular-_R0125126)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
@@ -195,14 +203,6 @@ _Generated: 2026-11-23T17:50:20.751Z_
 ### Senior Manager, Business Information Security
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Senior-Manager--Business-Information-Security_R0124071](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Senior-Manager--Business-Information-Security_R0124071)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### Senior Frontend Engineer
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Frontend-Engineer_R0123247](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-Frontend-Engineer_R0123247)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
