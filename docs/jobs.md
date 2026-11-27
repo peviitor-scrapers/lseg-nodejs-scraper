@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, NR.6F, CLĂDIREA 6.1, ET.3-4 |
 | Website | [https://www.lseg.com](https://www.lseg.com) |
 | Careers | [https://www.lseg.com/en/careers](https://www.lseg.com/en/careers) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
-## Current Job Listings (50)
+## Current Job Listings (51)
 
-_Generated: 2026-11-26T16:41:49.648Z_
+_Generated: 2026-11-27T16:27:26.828Z_
 
 ### Senior Software Developer (DotNet)
 
@@ -43,6 +43,22 @@ _Generated: 2026-11-26T16:41:49.648Z_
 ### Senior Oracle Developer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Oracle-Engineer_R0114160-1)
+- **Work Mode:** hybrid
+- **Location:** Bucharest, România
+- **Tags:** engineering
+- **Status:** scraped
+
+### CDSClear Java Software Development Engineer in Test
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Tags:** engineering
+- **Status:** scraped
+
+### Senior Software Development Manager
+
+- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Development-Manager_R0125742](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Senior-Software-Development-Manager_R0125742)
 - **Work Mode:** hybrid
 - **Location:** Bucharest, România
 - **Tags:** engineering
@@ -83,14 +99,6 @@ _Generated: 2026-11-26T16:41:49.648Z_
 ### Frontend Engineer
 
 - **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Frontend-Engineer_R0123248](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Frontend-Engineer_R0123248)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** engineering
-- **Status:** scraped
-
-### CDSClear Java Software Development Engineer in Test
-
-- **URL:** [https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/CDSClear-Web-Quality-Assurance-Engineer_R0121354-1)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Tags:** engineering
